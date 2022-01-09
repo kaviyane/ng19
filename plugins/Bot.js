@@ -55,7 +55,7 @@ if (Config.WORKTYPE == 'private') {
 }
 else if (Config.WORKTYPE == 'public') {
 
-    Asiata.addcommand({pattern: 'bot', fromMe: true,  deleteCommand: false }, (async (message, match) => {
+    Simple.addcommand({pattern: 'bot', fromMe: true,  deleteCommand: false }, (async (message, match) => {
 
           
             var image = await axios.get ('https://telegra.ph/file/5e6b637122b3353a7902b.jpg', {responseType: 'arraybuffer'})
@@ -96,7 +96,7 @@ else if (Config.WORKTYPE == 'public') {
 
     }));
   
-  Asiata.addcommand({pattern: 'bot', fromMe: false,  deleteCommand: false }, (async (message, match) => {
+  Simple.addcommand({pattern: 'bot', fromMe: false,  deleteCommand: false }, (async (message, match) => {
 
           
             var image = await axios.get ('https://telegra.ph/file/5e6b637122b3353a7902b.jpg', {responseType: 'arraybuffer'})
