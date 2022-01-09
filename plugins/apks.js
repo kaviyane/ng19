@@ -12,7 +12,7 @@ SIMPLE-BOT KAVEESHA NETHUM
 ගැම්ම තමා කෝඩ් කොපි කරාට සම කරන්න බෑ  *┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋*
 */
 
-const Simple = require('../events');
+const Asiata = require('../events');
 const axios = require('axios');
 const {MessageType, Mimetype, MessageOptions} = require('@adiwajshing/baileys');
 const {spawnSync} = require('child_process');
@@ -25,11 +25,11 @@ const Lang = Language.getString('weather');
 
 if (Config.WORKTYPE == 'private') {
 
-   Simple.addcommand({pattern: 'apkmod', fromMe: true, desc: "gives  mod apks "}, (async (message, match) => {
+   Asiata.addcommand({pattern: 'apkmod', fromMe: true, desc: "gives  mod apks "}, (async (message, match) => {
       await message.sendMessage('┏━━━━━━━━━━━━━━━━━━━\n┃〘 🐼 *APK COMMANDS* 🐼 〙\n┗━━━━━━━━━━━━━━━━━━━\nAplicaciones Full\n┠⊷💝 Nova Launcher:\n     *.nova*\n\n┠⊷💝 CM Launcher:\n     *.cml*\n\n┠⊷💝 Apex Launcher:\n     *.apex*\n\n\n┠⊷💝 Kinemaster:\n     *.kinemaster*\n\n┠⊷💝 PicsArt Gold:\n     *.picsart*\n\n┠⊷💝 Canva Pro:\n     *.canva*\n\n┠⊷💝 Ligthrom:\n     *.lightroom*\n\n┠⊷💝 Photoshop Express:\n     *.pshop*\n\n┠⊷💝 Snapseed:\n     *.snaps*\n\n┠⊷💝 Retouch:\n     *.retouch*\n\n\n┠⊷💝 Vanced Manager:\n     *.vanced*\n\n┠⊷💝 Crunchyroll:\n     *.crunchy*\n\n┠⊷💝 Freezer Mod:\n     *.freez*\n\n┠⊷💝 Deezer Premium:\n     *.deezer*\n\n┠⊷💝 RadioBox:\n     *.rbox*\n\n┠⊷💝 Mx Player Pro:\n     *.mxpro*\n\n┠⊷💝 Power AMP:\n     *.amp*\n\n┠⊷💝 JetAudio:\n     *.jetau*\n\n\n┠⊷💝 ExpressVpn:\n     *.xpress*\n\n┠⊷💝 Hospot Shield:\n     *.hshield*\n\n┠⊷💝 TurboVpn:\n     *.Turbo*\n\n┠⊷💝 File Manager:\n     *.flmanager*\n\n┠⊷💝 CallRecorder:\n     *.callr*\n\n┠⊷💝 FingScanner:\n     *.fing*\n\n┠⊷💝 Shazam Encore:\n     *.shazam*\n\n┠⊷💝 QR Scanner Pro:\n     *.qrcode*\n\n┠⊷💝 Screen Recorder:\n     *.srecorder*\n\n┠⊷💝 TikTok Mod:\n     *.tiktok*\n\n┠⊷💝 Photomath:\n     *.pmath*\n\n┠⊷💝 WhatsApp Plus:\n     *.waplus*\n\n┏━━━━━━━━━━━━━━━━━━━\n  *┋✖☛🧚‍♂️ASIATA BOT🧚‍♂️☚✖┋*\n┗━━━━━━━━━━━━━━━━━━━\n');
    }));
 
-   Simple.addcommand({pattern: 'nova', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
+   Asiata.addcommand({pattern: 'nova', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
       await message.sendMessage('🇱🇰 *NOVA LAUNCHER* 🇱🇰\npremium unlocked .\n🕊️ bit.ly/drknova');
    }));
 
