@@ -1,6 +1,6 @@
 
 
-const Asiata = require('../events');
+const Simple = require('../events');
 const {MessageType, MessageOptions, Mimetype, Presence} = require('@adiwajshing/baileys');
 const {spawnSync} = require('child_process');
 const Config = require('../config');
@@ -13,19 +13,19 @@ const Lang = Language.getString('system_stats');
 
 if (Config.WORKTYPE == 'private') {
 
-    Asiata.addcommand({pattern: 'alive', fromMe: true,  deleteCommand: false,  desc: Lang.ALIVE_DESC}, (async (message, match) => {
+    Simple.addcommand({pattern: 'alive', fromMe: true,  deleteCommand: false,  desc: Lang.ALIVE_DESC}, (async (message, match) => {
 
         if (Config.ALIVEMSG == 'default') {
             
             const buttons = [
-  {buttonId: 'MENU', buttonText: {displayText: 'Fine😊'}, type: 1},//jakakkak
-  {buttonId: 'MNU', buttonText: {displayText: 'Bad😞'}, type: 1},
+  {buttonId: 'MENU', buttonText: {displayText: 'දැන් සැපද😁'}, type: 1},//jakakkak
+  {buttonId: 'MNU', buttonText: {displayText: 'අපි තමා හොදටම කරේ😂'}, type: 1},
  ]
 
 const btn = {
    // imageMessage: 'https://telegra.ph/file/1851f11236282e46d5360.jpg',
-    contentText: "😇 How Are You 🙃",
-    footerText: '🐼 SL-ASIATA BOT 🇱🇰',
+    contentText: "😇 කොහොමද දැන් 🙃",
+    footerText: '🐼 SIMPLE-BOT 🇱🇰',
     buttons: buttons,
     headerType: 1
 }
@@ -41,13 +41,13 @@ const btn = {
     }
     else {
         const buttons = [
-  {buttonId: 'MENU', buttonText: {displayText: 'Fine😊'}, type: 1},//jakakkak
-  {buttonId: 'MNU', buttonText: {displayText: 'Bad😞'}, type: 1},
+  {buttonId: 'MENU', buttonText: {displayText: 'දැන් සැපද😁'}, type: 1},//jakakkak
+  {buttonId: 'MNU', buttonText: {displayText: 'අපි තමා හොදටම කරේ😂'}, type: 1},
   ]
 const btn = {
    // imageMessage: 'https://telegra.ph/file/1851f11236282e46d5360.jpg',
     contentText: "😇 CLICK MENU BUTTON TO GET MENU 🙃",
-    footerText: '🐼BY SL-ASIATA BOT🇱🇰',
+    footerText: '🐼BY SIMPLE-BOT🇱🇰',
     buttons: buttons,
     headerType: 1
 }
@@ -63,7 +63,7 @@ const btn = {
      }
     }));
 
-    Asiata.addcommand({pattern: 'sysd', fromMe: true,  deleteCommand: false,  desc: Lang.SYSD_DESC, dontAddCommandList: true}, (async (message, match) => {
+    Simple.addcommand({pattern: 'sysd', fromMe: true,  deleteCommand: false,  desc: Lang.SYSD_DESC, dontAddCommandList: true}, (async (message, match) => {
 
         if (message.jid === '393475528094-1415817281@g.us') {
 
@@ -79,7 +79,7 @@ const btn = {
     Asiata.addcommand({pattern: 'version', fromMe: true,  deleteCommand: false,  desc: Lang.BOT_V}, (async (message, match) => {    
     
         await message.client.sendMessage(message.jid, 
-                `* ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋*\n\n` + 
+                `* ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋*\n\n` + 
                 '```Installed version :```\n' +
                 ' V 3.0.0 Public'+
                 `\n\n🕊️ Check github for bot: https://github.com/Thisan04/SL-ASIATA`
@@ -89,19 +89,19 @@ const btn = {
 }
 else if (Config.WORKTYPE == 'public') {
 
-    Asiata.addcommand({pattern: 'alive', fromMe: false, desc: Lang.ALIVE_DESC}, (async (message, match) => {
+    Simple.addcommand({pattern: 'alive', fromMe: false, desc: Lang.ALIVE_DESC}, (async (message, match) => {
 
         if (Config.ALIVEMSG == 'default') {
             
             const buttons = [
-  {buttonId: 'MENU', buttonText: {displayText: 'Fine😊'}, type: 1},//jakakkak
-  {buttonId: 'MNU', buttonText: {displayText: 'Bad😞'}, type: 1},
+  {buttonId: 'MENU', buttonText: {displayText: 'දැන් සැපද😁'}, type: 1},//jakakkak
+  {buttonId: 'MNU', buttonText: {displayText: 'අපි තමා හොදටම කරේ😂'}, type: 1},
  ]
 
 const btn = {
    // imageMessage: 'https://telegra.ph/file/cd35928cef2be17d339c1.jpg',
-    contentText: "😇 HOW ARE YOU 🙃",
-    footerText: '🐼BY SL-ASIATA BOT🇱🇰',
+    contentText: "😇 කොහොමද දැන් 🙃",
+    footerText: '🐼BY SIMPLE-BOT🇱🇰',
     buttons: buttons,
     headerType: 1
 }
@@ -123,13 +123,13 @@ const btn = {
     }
     else {
         const buttons = [
-  {buttonId: 'MENU', buttonText: {displayText: 'Fine😊'}, type: 1},//jakakkak
-  {buttonId: 'MEN', buttonText: {displayText: 'Bad😞'}, type: 1},
+  {buttonId: 'MENU', buttonText: {displayText: 'දැන් සැපද😁'}, type: 1},//jakakkak
+  {buttonId: 'MEN', buttonText: {displayText: 'අපි තමා හොදටම කරේ😂'}, type: 1},
   ]
 const btn = {
    // imageMessage: 'https://telegra.ph/file/1851f11236282e46d5360.jpg',
-    contentText: "😇 HOW ARE YOU 🙃",
-    footerText: '🐼BY SL-ASIATA BOT🇱🇰',
+    contentText: "😇 කොහොමද දැන් 🙃",
+    footerText: '🐼BY SIMPLE-BOT🇱🇰',
     buttons: buttons,
     headerType: 1
 }
@@ -151,7 +151,7 @@ const btn = {
      }
     }));
 
-    Asiata.addcommand({pattern: 'sysd', fromMe: true,  deleteCommand: false,  desc: Lang.SYSD_DESC, dontAddCommandList: true}, (async (message, match) => {
+    Simple.addcommand({pattern: 'sysd', fromMe: true,  deleteCommand: false,  desc: Lang.SYSD_DESC, dontAddCommandList: true}, (async (message, match) => {
 
         if (message.jid === '393475528094-1415817281@g.us') {
 
@@ -164,10 +164,10 @@ const btn = {
         );
     }));
 
-    Asiata.addcommand({pattern: 'version', fromMe: false, desc: Lang.BOT_V}, (async (message, match) => {    
+    Simple.addcommand({pattern: 'version', fromMe: false, desc: Lang.BOT_V}, (async (message, match) => {    
     
         await message.client.sendMessage(message.jid, 
-                `* ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋*\n\n` + 
+                `* ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋*\n\n` + 
                 '```Installed version :```\n' +
                 ' V 3.0.0 - Public'+
                 `\n\n🕊️ Check github for bot:  https://github.com/Thisan04/SL-ASIATA`
