@@ -1,11 +1,11 @@
-const Asiata = require('../events');
+const Simple = require('../events');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
 const Config = require('../config');
 
 if (Config.WORKTYPE == 'private') {
 
-    Asiata.addcommand({pattern: 'anime', fromMe: true, desc: 'Send Different type ANIME images . විවිදාකාර ඇනිම් පින්තූර ඔබ වෙත එවයි..'}, (async (message, match) => {
+    Simple.addcommand({pattern: 'anime', fromMe: true, desc: 'Send Different type ANIME images . විවිදාකාර ඇනිම් පින්තූර ඔබ වෙත එවයි..'}, (async (message, match) => {
 
     var r_text = new Array ();
 
@@ -93,13 +93,13 @@ if (Config.WORKTYPE == 'private') {
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '* ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋*'})
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '* ┋✖☛🧚‍ *SIMPLE-BOT* 🧚‍♂️☚✖┋*'})
 
     }));
 }
 else if (Config.WORKTYPE == 'public') {
 
-    Asiata.addcommand({pattern: 'anime', fromMe: false, desc: 'Send Different type ANIME images . විවිදාකාර ඇනිම් පින්තූර ඔබ වෙත එවයි..'}, (async (message, match) => {
+    Simple.addcommand({pattern: 'anime', fromMe: false, desc: 'Send Different type ANIME images . විවිදාකාර ඇනිම් පින්තූර ඔබ වෙත එවයි..'}, (async (message, match) => {
 
     var r_text = new Array ();
 
@@ -187,7 +187,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '* ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋*' ,quoted: message.data})
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '* ┋✖☛🧚 *SIMPLE-BOT* 🧚‍♂️☚✖┋*' ,quoted: message.data})
 
     }));
 }
