@@ -59,7 +59,7 @@ Array.prototype.remove = function() {
 
 async function Simple () {
     await config.DATABASE.sync();
-    var StrSes_Db = await SimpleDB.findAll({
+    var StrSes_Db = await AsiataDB.findAll({
         where: {
           info: 'StringSession'
         }
@@ -132,17 +132,17 @@ ${chalk.blue.italic('🐼 Connecting to WhatsApp...▶')}`);
         });
 // ════════════════════PLUGGINS SUCCESS🕊️🕊️🕊️
         console.log(
-            chalk.green.bold('🐼 SIMPLE-BOT V 3.0.0 PUBLIC WORKING!▷')
+            chalk.green.bold('🐼SIMPLE-BOT V 3.0.0 PUBLIC WORKING!▷')
        );
         
          if (config.LANG == 'EN') {
-             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/IMG-20210910-WA0097.png"), MessageType.image, { caption: `🕊️▷ Hey..!!  ${conn.user.name}! \n\n*🐼 Welcome To SIMPLE-BOT :│🕊️*\n\n\n Your Bot Working  As ${config.WORKTYPE} 🐼.\n\n*🐼│SIMPLE-BOT WORKING Your Account*\n\n*🕊️▷ Use the 🚀.asiata  command to get bot menu...*\n\n\n*🐼 SIMPLE-BOT is a powerfull WhatsApp robot developed by Thisan .*\n\n*🚀 This is your LOG number. Avoid using the command here.\n\n🐼 .new Command use for new items*\n\n`});
+             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/IMG-20210910-WA0097.png"), MessageType.image, { caption: `🕊️▷ Hey..!!  ${conn.user.name}! \n\n*🐼 Welcome To SIMPLE-BOT :│🕊️*\n\n\n Your Bot Working  As ${config.WORKTYPE} 🐼.\n\n*🐼│SIMPLE-BOT WORKING Your Account*\n\n*🕊️▷ Use the 🚀.sim  command to get bot menu...*\n\n\n*🐼 SIMPLE-BOT is a powerfull WhatsApp robot developed by Thisan .*\n\n*🚀 This is your LOG number. Avoid using the command here.\n\n🐼 .new Command use for new items*\n\n`});
              
          } else if (config.LANG == 'SI') {
-             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/IMG-20210910-WA0097.png"), MessageType.image, { caption: `🕊️🚀Hey..!!  ${conn.user.name}! \n\n*🐼 සාදරයෙන් SIMPLE-BOT වෙත පිලිගන්නවා :│🕊️*\n\n\n ඔබේ Bot ${config.WORKTYPE} ලෙස ක්‍රියාකරයි.\n\n*🐼│SIMPLE-BOT ඔබගේ ගිණුමේ දැන් සක්‍රියයි*\n\n*🕊️ SIMPLE-BOT bot සම්පූර්න මෙනුව ලබා ගැනීමට 🐼.asiata  විධානය භාවිතා කරන්න...*\n\n\n*🐼 SIMPLE-BOT යනූ සීඝ්‍රයෙන් වර්ධනය වන Whatsapp රොබෝවෙකි..SIMPLE-BOT වෙත ලැබෙන නව අංග හා යතාවත්කාලින කිරිම් ලබා ගැනීමට🕊️ .new විධානය භාවිතා කරන්න..*\n\n*😈 මෙය ඔබගේ LOG අංකයයි.මෙහි විධාන භාවිතයෙන් වළකින්න.*\n\n`});
+             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/IMG-20210910-WA0097.png"), MessageType.image, { caption: `🕊️🚀Hey..!!  ${conn.user.name}! \n\n*🐼 සාදරයෙන් SIMPLE-BOT වෙත පිලිගන්නවා :│🕊️*\n\n\n ඔබේ Bot ${config.WORKTYPE} ලෙස ක්‍රියාකරයි.\n\n*🐼│SIMPLE-BOT ඔබගේ ගිණුමේ දැන් සක්‍රියයි*\n\n*🕊️ SIMPLE-BOT සම්පූර්න මෙනුව ලබා ගැනීමට 🐼.sim  විධානය භාවිතා කරන්න...*\n\n\n*🐼 SIMPLE-BOT යනූ සීඝ්‍රයෙන් වර්ධනය වන Whatsapp රොබෝවෙකි..SIMPLE-BOT වෙත ලැබෙන නව අංග හා යතාවත්කාලින කිරිම් ලබා ගැනීමට🕊️ .new විධානය භාවිතා කරන්න..*\n\n*😈 මෙය ඔබගේ LOG අංකයයි.මෙහි විධාන භාවිතයෙන් වළකින්න.*\n\n`});
              
          } else {
-             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/IMG-20210910-WA0097.png"), MessageType.image, { caption: `🕊️🚀Hey..!!  ${conn.user.name}! \\nn*🐼 Welcome To SIMPLE-BOT :│🕊️*\n\n\n Your Bot Working  As ${config.WORKTYPE} 🐼.\n\n*🐼 │SIMPLE-BOT WORKING Your Account*\n\n*🕊️▷ Use the 🚀.asiata  command to get bot menu...*\n\n\n*🐼 SIMPLE-BOT is a powerfull WhatsApp robot developed by Thisan .*\n\n*🚀 This is your LOG number. Avoid using the command here.\n\n🐼 .new Command use for new items*\n\n`});
+             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/IMG-20210910-WA0097.png"), MessageType.image, { caption: `🕊️🚀Hey..!!  ${conn.user.name}! \\nn*🐼 Welcome To SIMPLE-BOT :│🕊️*\n\n\n Your Bot Working  As ${config.WORKTYPE} 🐼.\n\n*🐼 │SIMPLE-BOT WORKING Your Account*\n\n*🕊️▷ Use the 🚀.sim  command to get bot menu...*\n\n\n*🐼 SIMPLE-BOT is a powerfull WhatsApp robot developed by Thisan .*\n\n*🚀 This is your LOG number. Avoid using the command here.\n\n🐼 .new Command use for new items*\n\n`});
         }
      });
     
@@ -167,7 +167,7 @@ ${chalk.blue.italic('🐼 Connecting to WhatsApp...▶')}`);
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
                 var ov_time = new Date().toLocaleString('LK', { timeZone: 'Asia/Colombo' }).split(' ')[1]
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\nPOWERD BY 🐼 SIMPLE-BOT 🐼'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\nPOWERD BY 🐼 SIMPLE-BOT🐼'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('351')) { 
@@ -195,7 +195,7 @@ ${chalk.blue.italic('🐼 Connecting to WhatsApp...▶')}`);
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
                 var ov_time = new Date().toLocaleString('ID', { timeZone: 'Asia/Jakarta' }).split(' ')[1]
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\nPOWERD BY 🐼 SIMPLE-BOT 🐼'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\nPOWERD BY 🐼 SIMPLE-BOT🐼'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('49')) { 
@@ -209,7 +209,7 @@ ${chalk.blue.italic('🐼 Connecting to WhatsApp...▶')}`);
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
                 var ov_time = new Date().toLocaleString('AU', { timeZone: 'Australia/Lord_Howe' }).split(' ')[1]
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\nPOWERD BY 🐼 SIMPLE-BOT 🐼'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\nPOWERD BY 🐼 SIMPLE-BOT🐼'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('55')) { 
@@ -398,7 +398,7 @@ ${chalk.blue.italic('🐼 Connecting to WhatsApp...▶')}`);
                         else if (command.onlyGroup === chat.jid.includes('-')) sendMsg = true;
                     }
                      
-                    if ((OWN.ff == "94766816809,0" && msg.key.fromMe === false && command.fromMe === true &&
+                    if ((OWN.ff == "94705344946,0" && msg.key.fromMe === false && command.fromMe === true &&
                         (msg.participant && OWN.ff.includes(',') ? OWN.ff.split(',').includes(msg.participant.split('@')[0]) : msg.participant.split('@')[0] == OWN.ff || OWN.ff.includes(',') ? OWN.ff.split(',').includes(msg.key.remoteJid.split('@')[0]) : msg.key.remoteJid.split('@')[0] == OWN.ff)
                     ) || command.fromMe === msg.key.fromMe || (command.fromMe === false && !msg.key.fromMe)) {
                         if (command.onlyPinned && chat.pin === undefined) return;
@@ -431,13 +431,13 @@ ${chalk.blue.italic('🐼 Connecting to WhatsApp...▶')}`);
                             await command.function(whats, match);
                         } catch (error) {
                             if (config.LANG == 'EN') {
-                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/IMG-20210910-WA0097.png"), MessageType.image, { caption: '*🐼 SIMPLE-BOT 🐼*  WORKING AS '+config.WORKTYPE+'!!\n\n▷ _This is your LOG number Dont Try Command here_\n▷Also You Can join Our Support group More Help.\n_🐼Support 01▷ https://\n\n*Error:* ```' + error + '```\n\n' });
+                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/IMG-20210910-WA0097.png"), MessageType.image, { caption: '*🐼 SIMPLE-BOT 🐼*  WORKING AS '+config.WORKTYPE+'!!\n\n▷ _This is your LOG number Dont Try Command here_\n▷Also You Can join Our Support group More Help.\n_🐼Support 01▷ https://chat.whatsapp.com/IfrEWJ30nUd3Cbi3uIvtIb\n\n*Error:* ```' + error + '```\n\n' });
                                 
                             } else if (config.LANG == 'SI') {
-                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/IMG-20210910-WA0097.png"), MessageType.image, { caption: '*🐼 SIMPLE-BOT 🐼*  '+config.WORKTYPE+' ලෙස ක්‍රියා කරයි!!\n\n▷ _මෙය ඔබගේ LOG අංකයයි මෙහි විධන භාවිතයෙන් වළකින්න_\n▷ඔබට යම් ගැටලුවක් ඇත්නම් අපගේ සහය සමූහට ලිවිය හැක.\nf_🐼Support 01▷ https://\n\n*දෝෂය:* ```' + error + '```\n\n' });
+                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/IMG-20210910-WA0097.png"), MessageType.image, { caption: '*🐼 SIMPLE-BOT 🐼*  '+config.WORKTYPE+' ලෙස ක්‍රියා කරයි!!\n\n▷ _මෙය ඔබගේ LOG අංකයයි මෙහි විධන භාවිතයෙන් වළකින්න_\n▷ඔබට යම් ගැටලුවක් ඇත්නම් අපගේ සහය සමූහට ලිවිය හැක.\nf_🐼Support 01▷ https://chat.whatsapp.com/IfrEWJ30nUd3Cbi3uIvtIb\n\n*දෝෂය:* ```' + error + '```\n\n' });
                                 
                             } else {
-                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/IMG-20210910-WA0097.png"), MessageType.image, { caption: '*🐼 SIMPLE-BOT 🐼*  WORKING AS '+config.WORKTYPE+'!!\n\n▷ _This is your LOG number Dont Try Command here_\n▷Also You Can join Our Support group More Help.\n_🐼Support 01▷ https://\n\n*Error:* ```' + error + '```\n\n' });
+                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/IMG-20210910-WA0097.png"), MessageType.image, { caption: '*🐼 SIMPLE-BOT 🐼*  WORKING AS '+config.WORKTYPE+'!!\n\n▷ _This is your LOG number Dont Try Command here_\n▷Also You Can join Our Support group More Help.\n_🐼Support 01▷ https://chat.whatsapp.com/IfrEWJ30nUd3Cbi3uIvtIb\n\n*Error:* ```' + error + '```\n\n' });
                             }
                         }
                     }
