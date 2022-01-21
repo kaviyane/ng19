@@ -1192,7 +1192,7 @@ Example : .covid Sri Lanka💝
 `, rowId:"rowid3"},
         {title: '🐼 LOGO PACK 01 🐼', description: `➶➶➶➶➶➶\n\n\n
 ╔═════════════════════╗
-║       ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋  
+║       ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋  
 ║         ║🕊️╚FF PACK╝🕊️║
 ║
 ╠═➢ 🕊️.ff9       ❴your text❵
@@ -1295,9 +1295,9 @@ Example : .covid Sri Lanka💝
 ║send free fire logo
 ║
 ║
-║➶Creator: THISAN 
+║➶Creator: *KAVEESHA* 
 ║
-║  ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋  
+║  ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋  
 ╚═════════════════════╝
 `, rowId:"rowid5"},
         {title: '🐼 LOGO PACK 02 🐼', description: `➶➶➶➶➶➶\n\n\n
