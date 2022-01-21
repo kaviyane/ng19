@@ -686,7 +686,7 @@ Example : .covid Sri Lanka💝
 `, rowId:"rowid6"},
         {title: '🐼 ATTP PACK 🐼', description: `➶➶➶➶➶➶\n\n\n
 ╔═════════════════════╗
-║       ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋  
+║       ┋✖☛🧚‍♂️SIMPLW-BOT🧚‍♂️☚✖┋  
 ║        ║🕊️╚ATTP PACK╝🕊️║
 ║
 ╠═➢ 🕊️.01attp      ❴your text❵
@@ -797,7 +797,7 @@ Example : .covid Sri Lanka💝
 🕊️ Developer : KAVEESHA 
 🕊️ Bot             : SIMPLE-BOT V 3.0.0 
 🕊️ Language : Sinhala & English
-🕊️ Sponcer Team : 2022SimpleTech
+🕊️ Sponcer Team : 2022 SimpleTech
 🕊️ Develop language : Node js
 🕊️ Developer no : wa.me/+94
 `, rowId:"rowid2"}
@@ -844,8 +844,8 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
     
     const rows = [
         {title: '🐼 ALL MENU 🐼', description: `➶➶➶➶➶➶\n\n\n
- ╭────────────────
- │ ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋
+  ╭────────────────
+ │ ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋
  ╰────────────────
  ╭────────────────
  │ Hello ➶ Dear
@@ -952,7 +952,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  │➶ .online store
  │ 
- │ 🐼 SL-ASIATA ONLINE 🐼
+ │ 🐼 SIMPLE-BOT ONLINE 🐼
  │     SHOPPING
  │
  │ ONLY SRI LANKAN 
@@ -970,7 +970,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │    your whatsapp 
  │ name,profile pic,bio
  │      easy with
- │      SL-ASIATA BOT
+ │      SIMPLE-BOT
  ╰────────────────
  ╭────────────────
  │    🕊️🐼 Search 🐼🕊️
@@ -1036,14 +1036,14 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │➶ .covid
  ╰────────────────
  
-         🐼 POWERD BY 🐼
-   ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋
+          🐼 POWERD BY 🐼
+   ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋
   
-       🐼       Thisan         🐼
+       🐼       *Kaveesha*         🐼
 ` , rowId:"rowid1"},
         {title: '🐼 ADVANCE MENU 🐼', description:`➶➶➶➶➶➶\n\n\n
 ╔═══════════════════════╗
-            ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋
+            ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋
 ═════════════════════════
 *🕊️ Command:* 💝.xmedia💝
 *➢ Description:* 💝A plugin that have 25 media tools.💝
@@ -1052,7 +1052,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 *🕊️ Command:* 💝.asiata 💝
 *➢ Description:*💝all commands💝
 *🕊️ Command* 💝.rlpack💝
-*➢ Description:* 💝SL-ASIATA LOGO COLLECTION 01💝
+*➢ Description:* 💝SIMPLE-BOT LOGO COLLECTION 01💝
 *🕊️ Command:* 💝.lovepack💝
 *➢ Description:* 💝Send Love message to gf/bf.💝
 *🕊️ Command;* 💝.grp💝
@@ -1111,9 +1111,9 @@ Example : .covid Sri Lanka💝
 *🕊️ Command:* 💝.video💝
 *➢ Description:* 💝Downloading videos from YouTube💝
 *🕊️ Command:* 💝.insta💝
-*➢ Description:* 💝🕊️➢  ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋ Download instagram videos.💝
+*➢ Description:* 💝🕊️➢  ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋ Download instagram videos.💝
 *🕊️ Command:* 💝.fb💝
-*➢ Description:* 💝🕊️➢  ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋ Download Facebook videos.💝
+*➢ Description:* 💝🕊️➢  ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋ Download Facebook videos.💝
 *🕊️ Command:* 💝.trt💝
 *➢ Description:* 💝It translates with Google Translator. You must mention any message.💝
 *⌨️ Example:* 💝.trt en si (From English to Sinhala)💝
@@ -1191,97 +1191,6 @@ Example : .covid Sri Lanka💝
 *➢ Description:* 💝Shorten link.💝
 `, rowId:"rowid3"},
         {title: '🐼 LOGO PACK 01 🐼', description: `➶➶➶➶➶➶\n\n\n
-╔══════════════════════
-║❌ 🕊️*SL LOGO PACK 1*🕊️ ❌
-╠══════════════════════
-║
-║   `+Config.CAPTION+`
-║
-╠═➢ 🕊️Cmd: *.phub*
-╠══➢ ✖ Dec: *Send pornhub logo*
-╠═➢ 🕊️ Ex: *.phub SL-ASIATA*
-║
-╠═➢ 🕊️ Cmd: *.stone*
-╠══➢ ✖ Dec: *Send stone like logo*
-╠═➢ 🕊️Ex: *.stone SL-ASIATA*
-║
-╠═➢ 🕊️Cmd: *.glitch*
-╠══➢ ✖ Dec: *Send glitch logo*
-╠═➢ 🕊️ Ex: *.glitch SL-ASIATA*
-║
-╠═➢ 🕊️Cmd: *.space*
-╠══➢ ✖ Dec: *Send space logo*
-╠═➢ 🕊️Ex: *.space SL-ASIATA*
-║
-╠═➢ 🕊️Cmd: *.blood*
-╠══➢ ✖ Dec: *Send blood hor logo*
-╠═➢ 🕊️Ex: *.blood SL-ASIATA*
-║
-╠═➢ 🕊️Cmd: *.blackpink*
-╠══➢ ✖ Dec: *Send bpink logo*
-╠═➢ 🕊️Ex: *.blackpink SL-ASIATA*
-║
-╠═➢ 🕊️Cmd: *.wall*
-╠══➢ ✖ Dec: *Send wall art logo*
-╠═➢ 🕊️Ex: *.wall SL-ASIATA*
-║
-╠═➢ 🕊️Cmd: *.coding*
-╠══➢✖ Dec: *Send coding logo*
-╠═➢ 🕊️ Ex: *.coding SL-ASIATA*
-║
-╠═➢ 🕊️Cmd: .*.sand1*
-╠══➢ ✖  Dec: *Send sand writting*
-╠═➢ 🕊️ Ex: *.sand1 SL-ASIATA*
-║
-╠═➢ 🕊️Cmd: *.sand2*
-╠══➢ ✖ Dec: *Send sand writting*
-╠═➢ 🕊️Ex: *.sand2 SL-ASIATA
-║
-╠═➢ 🕊️Cmd: *.sand3*
-╠══➢ ✖ Dec: *Send sand writting*
-╠═➢ 🕊️Ex: *.sand3 SL-ASIATA
-║
-╠═➢ 🕊️Cmd: *.beach*
-╠══➢ ✖ Dec: *Send beach logo*
-╠═➢ 🕊️Ex: *.beach SL-ASIATA
-║
-╠═➢ 🕊️Cmd: *.gradient*
-╠══➢ ✖  Dec: *Send logo*
-╠═➢ 🕊️ Ex: *.gradient SL-ASIATA*
-║
-╠═➢ 🕊️Cmd: *.luxury*
-╠══➢ ✖  Dec: *Send luxury logo*
-╠═➢ 🕊️ Ex: *.luxury SL-ASIATA*
-║
-╠═➢ 🕊️Cmd: *.sky*
-╠══➢ ✖  Dec: *Send sky logo*
-╠═➢ 🕊️ Ex: *.sky SL-ASIATA*
-║
-╠═➢ 🕊️Cmd: *.winter*
-╠══➢ ✖  Dec: *Send winter logo*
-╠═➢ 🕊️ Ex: *.winter SL-ASIATA
-║
-╠═➢ 🕊️Cmd: *.christmas*
-╠══➢ ✖  Dec: *Send xmas logo*
-╠═➢ 🕊️ Ex: *.christmas SL-ASIATA*
-║
-╠═➢ 🕊️Cmd: *.neon*
-╠══➢ ✖  Dec: *Send neon logo*
-╠═➢ 🕊️ Ex: *.neon SL-ASIATA*
-║
-╠═➢ 🕊️Cmd: *.king*
-╠══➢ ✖  Dec: *Send king logo*
-╠═➢ 🕊️ Ex: *.king SL-ASIATA*
-║
-╠═➢ 🕊️Cmd: *.glue*
-╠══➢ ✖  Dec: *Send Glue logo*
-╠═➢ 🕊️ Ex: *.glue SL-ASIATA*
-║
-║      ╔═🕊️ SL-ASIATA BOT 🕊️═╗
-║        ╚ ENJOY WITH US ╝
-╚══════════════════════
-`, rowId:"rowid4"},
-        {title: '🐼 FF PACK 🐼', description:`➶➶➶➶➶➶\n\n\n
 ╔═════════════════════╗
 ║       ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋  
 ║         ║🕊️╚FF PACK╝🕊️║
@@ -1393,102 +1302,99 @@ Example : .covid Sri Lanka💝
 `, rowId:"rowid5"},
         {title: '🐼 LOGO PACK 02 🐼', description: `➶➶➶➶➶➶\n\n\n
 ╔══════════════════════
-║❌ 🕊️*SL LOGO PACK 2*🕊️ ❌
+║❌ 🕊️*SL LOGO PACK 1*🕊️ ❌
 ╠══════════════════════
 ║
 ║   `+Config.CAPTION+`
 ║
-╠═➢ 🕊️Cmd: *.wel*
-╠══➢ ✖ Dec: *Send welcome logo*
-╠═➢ 🕊️ Ex: *.wel SL-ASIATA*
+╠═➢ 🕊️Cmd: *.phub*
+╠══➢ ✖ Dec: *Send pornhub logo*
+╠═➢ 🕊️ Ex: *.phub SIMPLE-BOT*
 ║
-╠═➢ 🕊️ Cmd: *.bye*
-╠══➢ ✖ Dec: *Send bye logo*
-╠═➢ 🕊️Ex: *.bye SL-ASIATA*
+╠═➢ 🕊️ Cmd: *.stone*
+╠══➢ ✖ Dec: *Send stone like logo*
+╠═➢ 🕊️Ex: *.stone SIMPLE-BOT*
 ║
-╠═➢ 🕊️Cmd: *.marvel*
-╠══➢ ✖ Dec: *Send marve logo*
-╠═➢ 🕊️ Ex: *.marvel SL-ASIATA*
+╠═➢ 🕊️Cmd: *.glitch*
+╠══➢ ✖ Dec: *Send glitch logo*
+╠═➢ 🕊️ Ex: *.glitch SIMPLE-BOT*
 ║
-╠═➢ 🕊️Cmd: *.2marvel*
-╠══➢ ✖ Dec: *Send marvel logo*
-╠═➢ 🕊️Ex: *.2marvel SL-ASIATA*
+╠═➢ 🕊️Cmd: *.space*
+╠══➢ ✖ Dec: *Send space logo*
+╠═➢ 🕊️Ex: *.space SIMPLE-BOT*
 ║
-╠═➢ 🕊️Cmd: *.wolf*
-╠══➢ ✖ Dec: *Send wolf logo*
-╠═➢ 🕊️Ex: *.wolf SL-ASIATA*
+╠═➢ 🕊️Cmd: *.blood*
+╠══➢ ✖ Dec: *Send blood hor logo*
+╠═➢ 🕊️Ex: *.blood SIMPLE-BOT*
 ║
-╠═➢ 🕊️Cmd: *.lava*
-╠══➢ ✖ Dec: *Send lava logo*
-╠═➢ 🕊️Ex: *.lava SL-ASIATA*
+╠═➢ 🕊️Cmd: *.blackpink*
+╠══➢ ✖ Dec: *Send bpink logo*
+╠═➢ 🕊️Ex: *.blackpink SIMPLE-BOT*
 ║
-╠═➢ 🕊️Cmd: *.xmas*
-╠══➢ ✖ Dec: *Send xmas logo*
-╠═➢ 🕊️Ex: *.xmas SL-ASIATA*
+╠═➢ 🕊️Cmd: *.wall*
+╠══➢ ✖ Dec: *Send wall art logo*
+╠═➢ 🕊️Ex: *.wall SIMPLE-BOT*
 ║
-╠═➢ 🕊️Cmd: *.round*
-╠══➢✖ Dec: *Send round logo*
-╠═➢ 🕊️ Ex: *.round { image url }*
+╠═➢ 🕊️Cmd: *.coding*
+╠══➢✖ Dec: *Send coding logo*
+╠═➢ 🕊️ Ex: *.coding SIMPLE-BOT*
 ║
-╠═➢ 🕊️Cmd: .*.quot*
-╠══➢ ✖  Dec: *Send quote logo*
-╠═➢ 🕊️ Ex: *.quot SL-ASIATA*
+╠═➢ 🕊️Cmd: .*.sand1*
+╠══➢ ✖  Dec: *Send sand writting*
+╠═➢ 🕊️ Ex: *.sand1 SIMPLE-BOT*
 ║
-╠═➢ 🕊️Cmd: *.harta*
-╠══➢ ✖ Dec: *Send harta logo*
-╠═➢ 🕊️Ex: *.harta SL-ASIATA
+╠═➢ 🕊️Cmd: *.sand2*
+╠══➢ ✖ Dec: *Send sand writting*
+╠═➢ 🕊️Ex: *.sand2 SIMPLE-BOT
 ║
-╠═➢ 🕊️Cmd: *.1917*
-╠══➢ ✖ Dec: *Send 1917 logo*
-╠═➢ 🕊️Ex: *.1917 SL-ASIATA
+╠═➢ 🕊️Cmd: *.sand3*
+╠══➢ ✖ Dec: *Send sand writting*
+╠═➢ 🕊️Ex: *.sand3 SIMPLE-BOT
 ║
-╠═➢ 🕊️Cmd: *.minion*
-╠══➢ ✖ Dec: *Send minion logo*
-╠═➢ 🕊️Ex: *.minion SL-ASIATA
+╠═➢ 🕊️Cmd: *.beach*
+╠══➢ ✖ Dec: *Send beach logo*
+╠═➢ 🕊️Ex: *.beach SIMPLE-BOT
 ║
-╠═➢ 🕊️Cmd: *.holo*
-╠══➢ ✖  Dec: *Send holo logo*
-╠═➢ 🕊️ Ex: *.holo SL-ASIATA*
+╠═➢ 🕊️Cmd: *.gradient*
+╠══➢ ✖  Dec: *Send logo*
+╠═➢ 🕊️ Ex: *.gradient SIMPLE-BOT*
 ║
-╠═➢ 🕊️Cmd: *.metalp*
-╠══➢ ✖  Dec: *Send metalp logo*
-╠═➢ 🕊️ Ex: *.metalp SL-ASIATA*
+╠═➢ 🕊️Cmd: *.luxury*
+╠══➢ ✖  Dec: *Send luxury logo*
+╠═➢ 🕊️ Ex: *.luxury SIMPLE-BOT*
 ║
-╠═➢ 🕊️Cmd: *.avengers*
-╠══➢ ✖  Dec: *Send avengers logo*
-╠═➢ 🕊️ Ex: *.avengers SL-ASIATA*
+╠═➢ 🕊️Cmd: *.sky*
+╠══➢ ✖  Dec: *Send sky logo*
+╠═➢ 🕊️ Ex: *.sky SIMPLE-BOT*
 ║
-╠═➢ 🕊️Cmd: *.halloween*
-╠══➢ ✖  Dec: *Send halloween logo*
-╠═➢ 🕊️ Ex: *.halloween SL-ASIATA
+╠═➢ 🕊️Cmd: *.winter*
+╠══➢ ✖  Dec: *Send winter logo*
+╠═➢ 🕊️ Ex: *.winter SIMPLE-BOT
 ║
-╠═➢ 🕊️Cmd: *.horror*
-╠══➢ ✖  Dec: *Send horror logo*
-╠═➢ 🕊️ Ex: *.horror SL-ASIATA*
+╠═➢ 🕊️Cmd: *.christmas*
+╠══➢ ✖  Dec: *Send xmas logo*
+╠═➢ 🕊️ Ex: *.christmas SIMPLE-BOT*
 ║
-╠═➢ 🕊️Cmd: *.glossyc*
-╠══➢ ✖  Dec: *Send glossy logo*
-╠═➢ 🕊️ Ex: *.glossyc SL-ASIATA*
+╠═➢ 🕊️Cmd: *.neon*
+╠══➢ ✖  Dec: *Send neon logo*
+╠═➢ 🕊️ Ex: *.neon SIMPLE-BOT*
 ║
-╠═➢ 🕊️Cmd: *.deluxe*
-╠══➢ ✖  Dec: *Send deluxe logo*
-╠═➢ 🕊️ Ex: *.deluxe SL-ASIATA*
+╠═➢ 🕊️Cmd: *.king*
+╠══➢ ✖  Dec: *Send king logo*
+╠═➢ 🕊️ Ex: *.king SIMPLE-BOT*
 ║
-╠═➢ 🕊️Cmd: *.glossyb*
-╠══➢ ✖  Dec: *Send glossy logo*
-╠═➢ 🕊️ Ex: *.glossyb SL-ASIATA*
+╠═➢ 🕊️Cmd: *.glue*
+╠══➢ ✖  Dec: *Send Glue logo*
+╠═➢ 🕊️ Ex: *.glue SIMPLE-BOT*
 ║
-╠═➢ 🕊️Cmd: *.joker*
-╠══➢ ✖  Dec: *Send joker logo*
-╠═➢ 🕊️ Ex: *.joker SL-ASIATA*
-║
-║      ╔═🕊️ SL-ASIATA BOT 🕊️═╗
+║      ╔═🕊️ SIMPLE-BOT 🕊️═╗
 ║        ╚ ENJOY WITH US ╝
 ╚══════════════════════
+
 `, rowId:"rowid6"},
         {title: '🐼 ATTP PACK 🐼', description: `➶➶➶➶➶➶\n\n\n
 ╔═════════════════════╗
-║       ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋  
+║       ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋  
 ║        ║🕊️╚ATTP PACK╝🕊️║
 ║
 ╠═➢ 🕊️.01attp      ❴your text❵
@@ -1572,9 +1478,9 @@ Example : .covid Sri Lanka💝
 ╠═➢ 🕊️.40attp       ❴your text❵
 ║send Text logo
 ║
-║➶Creator: THISAN 
+║➶Creator: *KAVEESHA* 
 ║
-║  ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋  
+║  ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋  
 ╚═════════════════════╝
 `, rowId:"rowid20"},
         {title: '🐼 DOWNLOADER 🐼', description: `➶➶➶➶➶➶\n\n\n
@@ -1595,21 +1501,21 @@ Example : .covid Sri Lanka💝
  │
  ╰────────────────
 `, rowId:"rowid9"},
-        {title: '🐼 ABOUT SL-ASIATA BOT 🐼', description:`➶➶➶➶➶➶\n\n\n
-🕊️ Developer : Thisan 
-🕊️ Bot             : SL-ASIATA V 3.0.0 
+        {title: '🐼 ABOUT SIMPLE-BOT 🐼', description:`➶➶➶➶➶➶\n\n\n
+🕊️ Developer : Kveesha 
+🕊️ Bot             : SIMPLE-BOT V 3.0.0 
 🕊️ Language : Sinhala & English
-🕊️ Sponcer Team : 2021©RavanaTech
+🕊️ Sponcer Team : 2022 SimpleTech
 🕊️ Develop language : Node js
-🕊 Developer no : wa.me/+94766816809
+🕊 Developer no : wa.me/+94
 `, rowId:"rowid2"}
        ]
        
-       const sections = [{title: "🐼 SL-ASIATA Command Panel 🐼", rows: rows}]
+       const sections = [{title: "🐼 SIMPLE-BOT Command Panel 🐼", rows: rows}]
        
        const button = {
         buttonText: 'Click Me➶',
-        description: "🐼 SL-ASIATA ALL COMMAND 🐼",
+        description: "🐼 SIMPLE-BOT ALL COMMAND 🐼",
         sections: sections,
         listType: 1
        }
