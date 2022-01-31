@@ -15,7 +15,7 @@ const Ln = "  *Send Love Messages.. , ආදර පණිවිඩ යැවී�
 
         await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  `╔═══════════════════════╗
 
-            ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋
+            ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋
 
 ═════════════════════════
 
@@ -73,7 +73,7 @@ const Ln = "  *Send Love Messages.. , ආදර පණිවිඩ යැවී�
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer'})    
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `╔═════════════════════╗
-║       ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋  
+║       ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋  
 ║         ║🕊️╚FF PACK╝🕊️║
 ║
 ╠═➢ 🕊️.ff9       ❴your text❵
@@ -176,9 +176,9 @@ const Ln = "  *Send Love Messages.. , ආදර පණිවිඩ යැවී�
 ║send free fire logo
 ║
 ║
-║▷Creator: THISAN 
+║▷Creator: KAVEESHA 
 ║
-║  ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋  
+║  ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋  
 ╚═════════════════════╝`  ,quoted: message.data})
 
     }));
@@ -265,7 +265,7 @@ const Ln = "  *Send Love Messages.. , ආදර පණිවිඩ යැවී�
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer'})    
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `╔═════════════════════╗
-║       ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋  
+║       ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋  
 ║         ║🕊️╚FF PACK╝🕊️║
 ║
 ╠═➢ 🕊️.ff9       ❴your text❵
@@ -368,9 +368,9 @@ const Ln = "  *Send Love Messages.. , ආදර පණිවිඩ යැවී�
 ║send free fire logo
 ║
 ║
-║▷Creator: THISAN 
+║▷Creator: KAVEESHA 
 ║
-║  ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋  
+║  ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋  
 ╚═════════════════════╝` })
    
    }));
