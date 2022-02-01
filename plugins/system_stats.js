@@ -76,7 +76,7 @@ const btn = {
         );
     }));
 
-    Asiata.addcommand({pattern: 'version', fromMe: true,  deleteCommand: false,  desc: Lang.BOT_V}, (async (message, match) => {    
+    Asiata.addcommand({pattern: 'version', fromMe: false,  desc: Lang.BOT_V}, (async (message, match) => {    
     
         await message.client.sendMessage(message.jid, 
                 `* ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋*\n\n` + 
