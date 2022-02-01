@@ -33,7 +33,7 @@ const btn = {
             
             var image = await axios.get ('https://telegra.ph/file/a249cc0afc0023a6a2416.jpg', {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "*හෙම්ලෝ සගෝ මම දැන් ඔන්ලයින් ඉන්නෙ* 💝 🕊️\n\n🕊️ My name : *SIMPLE WA BOT* 😈\n\n🕊️ Creater : *THISAN & MIHIRANGA*\n\n🕊️Devaloper : *KAVEESHA NETHUM*\n\n🕊️ ගැම්මක් තමා🐼  💝 *SIMPLE-BOT* ❤"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "*හෙම්ලෝ සගෝ මම දැන් ඔන්ලයින් ඉන්නෙ* 💝 🕊️\n\n🕊️ My name : *SIMPLE WA BOT* 😈\n\n🕊️ Creater : *THISAN & MIHIRANGA*\n\n🕊️Devaloper : *KAVEESHA NETHUM*\n\n🕊️🌀 Version : *V.4.0.0*\n\n ගැම්මක් තමා🐼  💝 *SIMPLE-BOT* ❤"})
             
         await message.client.sendMessage (message.jid, btn, MessageType.buttonsMessage)
 
@@ -81,7 +81,7 @@ const btn = {
         await message.client.sendMessage(message.jid, 
                 `* ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋*\n\n` + 
                 '```Installed version :```\n' +
-                ' V 3.0.0 Public'+
+                ' V 4.0.0 Public'+
                 `\n\n🕊️ Check github for bot: https://github.com/Thisan04/SL-ASIATA`
            , MessageType.text);
             
@@ -115,7 +115,7 @@ const btn = {
         await new Promise(r => setTimeout(r, 1000));
 
  
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "*හෙම්ලෝ සගෝ මම දැන් ඔන්ලයින් ඉන්නෙ* 💝 🕊️\n\n🕊️ My name : *SIMPLE WA BOT* 😈\n\n🕊️ Creater : *THISAN & MIHIRANGA*\n\n🕊️Devaloper : *KAVEESHA NETHUM*\n\n🕊️ ගැම්මක් තමා🐼  💝 *SIMPLE-BOT* ❤"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "*හෙම්ලෝ සගෝ මම දැන් ඔන්ලයින් ඉන්නෙ* 💝 🕊️\n\n🕊️ My name : *SIMPLE WA BOT* 😈\n\n🕊️ Creater : *THISAN & MIHIRANGA*\n\n🕊️Devaloper : *KAVEESHA NETHUM*\n\n🕊️🌀 Version : *V.4.0.0*\n\n ගැම්මක් තමා🐼  💝 *SIMPLE-BOT* ❤"})
             
         await message.client.sendMessage (message.jid, btn, MessageType.buttonsMessage)
 
@@ -169,7 +169,7 @@ const btn = {
         await message.client.sendMessage(message.jid, 
                 `* ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋*\n\n` + 
                 '```Installed version :```\n' +
-                ' V 3.0.0 - Public'+
+                ' V 4.0.0 - Public'+
                 `\n\n🕊️ Check github for bot:  https://github.com/Thisan04/SL-ASIATA`
            , MessageType.text);
             
