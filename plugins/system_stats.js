@@ -19,7 +19,7 @@ if (Config.WORKTYPE == 'private') {
             
             const buttons = [
   {buttonId: 'MENU', buttonText: {displayText: 'දැන් සැපද😁'}, type: 1},//jakakkak
-  {buttonId: 'MNU', buttonText: {displayText: 'අපි තමා හොදටම කරේ😂'}, type: 1},
+  {buttonId: 'MNU', buttonText: {displayText: '.version'}, type: 1},
  ]
 
 const btn = {
@@ -42,7 +42,7 @@ const btn = {
     else {
         const buttons = [
   {buttonId: 'MENU', buttonText: {displayText: 'දැන් සැපද😁'}, type: 1},//jakakkak
-  {buttonId: 'MNU', buttonText: {displayText: 'අපි තමා හොදටම කරේ😂'}, type: 1},
+  {buttonId: 'MNU', buttonText: {displayText: '.version'}, type: 1},
   ]
 const btn = {
    // imageMessage: 'https://telegra.ph/file/a249cc0afc0023a6a2416.jpg',
@@ -82,7 +82,7 @@ const btn = {
                 `* ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋*\n\n` + 
                 '```Installed version :```\n' +
                 ' V 4.0.0 Public'+
-                `\n\n🕊️ Check github for bot: https://github.com/Thisan04/SL-ASIATA`
+                `\n\n🕊️ Check github for bot: https://github.com/kaviyane/SL-ASIATA.git`
            , MessageType.text);
             
         }));
@@ -95,7 +95,7 @@ else if (Config.WORKTYPE == 'public') {
             
             const buttons = [
   {buttonId: 'MENU', buttonText: {displayText: 'දැන් සැපද😁'}, type: 1},//jakakkak
-  {buttonId: 'MNU', buttonText: {displayText: 'අපි තමා හොදටම කරේ😂'}, type: 1},
+  {buttonId: 'MNU', buttonText: {displayText: '.version'}, type: 1},
  ]
 
 const btn = {
@@ -124,7 +124,7 @@ const btn = {
     else {
         const buttons = [
   {buttonId: 'MENU', buttonText: {displayText: 'දැන් සැපද😁'}, type: 1},//jakakkak
-  {buttonId: 'MEN', buttonText: {displayText: 'අපි තමා හොදටම කරේ😂'}, type: 1},
+  {buttonId: 'MEN', buttonText: {displayText: '.version'}, type: 1},
   ]
 const btn = {
    // imageMessage: 'https://telegra.ph/file/a249cc0afc0023a6a2416.jpg',
@@ -170,7 +170,7 @@ const btn = {
                 `* ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋*\n\n` + 
                 '```Installed version :```\n' +
                 ' V 4.0.0 - Public'+
-                `\n\n🕊️ Check github for bot:  https://github.com/Thisan04/SL-ASIATA`
+                `\n\n🕊️ Check github for bot:  https://github.com/kaviyane/SL-ASIATA.git`
            , MessageType.text);
             
         }));
