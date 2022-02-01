@@ -41,7 +41,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
     const rows = [
         {title: '🐼 ALL MENU 🐼', description: `➶➶➶➶➶➶\n\n\n
  ╭────────────────
- │ ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋
+ │ ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋
  ╰────────────────
  ╭────────────────
  │ Hello ➶ Dear
@@ -159,7 +159,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  │➶ .online store
  │ 
- │ 🐼 SL-ASIATA ONLINE 🐼
+ │ 🐼 SIMPLE-BOT ONLINE 🐼
  │     SHOPPING
  │
  │ ONLY SRI LANKAN 
@@ -177,7 +177,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │    your whatsapp 
  │ name,profile pic,bio
  │      easy with
- │      SL-ASIATA BOT
+ │      SIMPLE-BOT
  ╰────────────────
  ╭────────────────
  │    🕊️🐼 Search 🐼🕊️
@@ -244,14 +244,14 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╰────────────────
  
          🐼 POWERD BY 🐼
-   ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋
+   ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋
   
-       🐼       THISAN         🐼
+       🐼       KAVEESHA         🐼
 ` , rowId:"rowid1"},
         {title: '🐼 ADVANCE MENU 🐼', description:`➶➶➶➶➶➶\n\n\n
 ╔═══════════════════════╗
 
-            ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋
+            ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋
 
 ═════════════════════════
 
@@ -387,11 +387,11 @@ Example : .covid Sri Lanka💝
 
 *🕊️ Command:* 💝.insta💝
 
-*➢ Description:* 💝🕊️➢  ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋ Download instagram videos.💝
+*➢ Description:* 💝🕊️➢  ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋ Download instagram videos.💝
 
 *🕊️ Command:* 💝.fb💝
 
-*➢ Description:* 💝🕊️➢  ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋ Download Facebook videos.💝
+*➢ Description:* 💝🕊️➢  ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋ Download Facebook videos.💝
 
 *🕊️ Command:* 💝.trt💝
 
@@ -552,91 +552,91 @@ Example : .covid Sri Lanka💝
 ║
 ╠═➢ 🕊️Cmd: *.phub*
 ╠══➢ ✖ Dec: *Send pornhub logo*
-╠═➢ 🕊️ Ex: *.phub SL-ASIATA*
+╠═➢ 🕊️ Ex: *.phub SIMPLE-BOT*
 ║
 ╠═➢ 🕊️ Cmd: *.stone*
 ╠══➢ ✖ Dec: *Send stone like logo*
-╠═➢ 🕊️Ex: *.stone SL-ASIATA*
+╠═➢ 🕊️Ex: *.stone SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.glitch*
 ╠══➢ ✖ Dec: *Send glitch logo*
-╠═➢ 🕊️ Ex: *.glitch SL-ASIATA*
+╠═➢ 🕊️ Ex: *.glitch SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.space*
 ╠══➢ ✖ Dec: *Send space logo*
-╠═➢ 🕊️Ex: *.space SL-ASIATA*
+╠═➢ 🕊️Ex: *.space SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.blood*
 ╠══➢ ✖ Dec: *Send blood hor logo*
-╠═➢ 🕊️Ex: *.blood SL-ASIATA*
+╠═➢ 🕊️Ex: *.blood SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.blackpink*
 ╠══➢ ✖ Dec: *Send bpink logo*
-╠═➢ 🕊️Ex: *.blackpink SL-ASIATA*
+╠═➢ 🕊️Ex: *.blackpink SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.wall*
 ╠══➢ ✖ Dec: *Send wall art logo*
-╠═➢ 🕊️Ex: *.wall SL-ASIATA*
+╠═➢ 🕊️Ex: *.wall SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.coding*
 ╠══➢✖ Dec: *Send coding logo*
-╠═➢ 🕊️ Ex: *.coding SL-ASIATA*
+╠═➢ 🕊️ Ex: *.coding SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: .*.sand1*
 ╠══➢ ✖  Dec: *Send sand writting*
-╠═➢ 🕊️ Ex: *.sand1 SL-ASIATA*
+╠═➢ 🕊️ Ex: *.sand1 SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.sand2*
 ╠══➢ ✖ Dec: *Send sand writting*
-╠═➢ 🕊️Ex: *.sand2 SL-ASIATA
+╠═➢ 🕊️Ex: *.sand2 SIMPLE-BOT
 ║
 ╠═➢ 🕊️Cmd: *.sand3*
 ╠══➢ ✖ Dec: *Send sand writting*
-╠═➢ 🕊️Ex: *.sand3 SL-ASIATA
+╠═➢ 🕊️Ex: *.sand3 SIMPLE-BOT
 ║
 ╠═➢ 🕊️Cmd: *.beach*
 ╠══➢ ✖ Dec: *Send beach logo*
-╠═➢ 🕊️Ex: *.beach SL-ASIATA
+╠═➢ 🕊️Ex: *.beach SIMPLE-BOT
 ║
 ╠═➢ 🕊️Cmd: *.gradient*
 ╠══➢ ✖  Dec: *Send logo*
-╠═➢ 🕊️ Ex: *.gradient SL-ASIATA*
+╠═➢ 🕊️ Ex: *.gradient SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.luxury*
 ╠══➢ ✖  Dec: *Send luxury logo*
-╠═➢ 🕊️ Ex: *.luxury SL-ASIATA*
+╠═➢ 🕊️ Ex: *.luxury SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.sky*
 ╠══➢ ✖  Dec: *Send sky logo*
-╠═➢ 🕊️ Ex: *.sky SL-ASIATA*
+╠═➢ 🕊️ Ex: *.sky SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.winter*
 ╠══➢ ✖  Dec: *Send winter logo*
-╠═➢ 🕊️ Ex: *.winter SL-ASIATA
+╠═➢ 🕊️ Ex: *.winter SIMPLE-BOT
 ║
 ╠═➢ 🕊️Cmd: *.christmas*
 ╠══➢ ✖  Dec: *Send xmas logo*
-╠═➢ 🕊️ Ex: *.christmas SL-ASIATA*
+╠═➢ 🕊️ Ex: *.christmas SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.neon*
 ╠══➢ ✖  Dec: *Send neon logo*
-╠═➢ 🕊️ Ex: *.neon SL-ASIATA*
+╠═➢ 🕊️ Ex: *.neon SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.king*
 ╠══➢ ✖  Dec: *Send king logo*
-╠═➢ 🕊️ Ex: *.king SL-ASIATA*
+╠═➢ 🕊️ Ex: *.king SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.glue*
 ╠══➢ ✖  Dec: *Send Glue logo*
-╠═➢ 🕊️ Ex: *.glue SL-ASIATA*
+╠═➢ 🕊️ Ex: *.glue SIMPLE-BOT*
 ║
-║      ╔═🕊️ SL-ASIATA BOT 🕊️═╗
+║      ╔═🕊️ SIMPLE-BOT 🕊️═╗
 ║        ╚ ENJOY WITH US ╝
 ╚══════════════════════
 `, rowId:"rowid4"},
         {title: '🐼 FF PACK 🐼', description:`➶➶➶➶➶➶\n\n\n
 ╔═════════════════════╗
-║       ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋  
+║       ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋  
 ║         ║🕊️╚FF PACK╝🕊️║
 ║
 ╠═➢ 🕊️.ff9       ❴your text❵
@@ -739,9 +739,9 @@ Example : .covid Sri Lanka💝
 ║send free fire logo
 ║
 ║
-║➶Creator: THISAN 
+║➶Creator: KAVEESHA 
 ║
-║  ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋  
+║  ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋  
 ╚═════════════════════╝
 `, rowId:"rowid5"},
         {title: '🐼 LOGO PACK 02 🐼', description: `➶➶➶➶➶➶\n\n\n
@@ -753,31 +753,31 @@ Example : .covid Sri Lanka💝
 ║
 ╠═➢ 🕊️Cmd: *.wel*
 ╠══➢ ✖ Dec: *Send welcome logo*
-╠═➢ 🕊️ Ex: *.wel SL-ASIATA*
+╠═➢ 🕊️ Ex: *.wel SIMPLE-BOT*
 ║
 ╠═➢ 🕊️ Cmd: *.bye*
 ╠══➢ ✖ Dec: *Send bye logo*
-╠═➢ 🕊️Ex: *.bye SL-ASIATA*
+╠═➢ 🕊️Ex: *.bye SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.marvel*
 ╠══➢ ✖ Dec: *Send marve logo*
-╠═➢ 🕊️ Ex: *.marvel SL-ASIATA*
+╠═➢ 🕊️ Ex: *.marvel SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.2marvel*
 ╠══➢ ✖ Dec: *Send marvel logo*
-╠═➢ 🕊️Ex: *.2marvel SL-ASIATA*
+╠═➢ 🕊️Ex: *.2marvel SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.wolf*
 ╠══➢ ✖ Dec: *Send wolf logo*
-╠═➢ 🕊️Ex: *.wolf SL-ASIATA*
+╠═➢ 🕊️Ex: *.wolf SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.lava*
 ╠══➢ ✖ Dec: *Send lava logo*
-╠═➢ 🕊️Ex: *.lava SL-ASIATA*
+╠═➢ 🕊️Ex: *.lava SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.xmas*
 ╠══➢ ✖ Dec: *Send xmas logo*
-╠═➢ 🕊️Ex: *.xmas SL-ASIATA*
+╠═➢ 🕊️Ex: *.xmas SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.round*
 ╠══➢✖ Dec: *Send round logo*
@@ -785,63 +785,63 @@ Example : .covid Sri Lanka💝
 ║
 ╠═➢ 🕊️Cmd: .*.quot*
 ╠══➢ ✖  Dec: *Send quote logo*
-╠═➢ 🕊️ Ex: *.quot SL-ASIATA*
+╠═➢ 🕊️ Ex: *.quot SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.harta*
 ╠══➢ ✖ Dec: *Send harta logo*
-╠═➢ 🕊️Ex: *.harta SL-ASIATA
+╠═➢ 🕊️Ex: *.harta SIMPLE-BOT
 ║
 ╠═➢ 🕊️Cmd: *.1917*
 ╠══➢ ✖ Dec: *Send 1917 logo*
-╠═➢ 🕊️Ex: *.1917 SL-ASIATA
+╠═➢ 🕊️Ex: *.1917 SIMPLE-BOT
 ║
 ╠═➢ 🕊️Cmd: *.minion*
 ╠══➢ ✖ Dec: *Send minion logo*
-╠═➢ 🕊️Ex: *.minion SL-ASIATA
+╠═➢ 🕊️Ex: *.minion SIMPLE-BOT
 ║
 ╠═➢ 🕊️Cmd: *.holo*
 ╠══➢ ✖  Dec: *Send holo logo*
-╠═➢ 🕊️ Ex: *.holo SL-ASIATA*
+╠═➢ 🕊️ Ex: *.holo SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.metalp*
 ╠══➢ ✖  Dec: *Send metalp logo*
-╠═➢ 🕊️ Ex: *.metalp SL-ASIATA*
+╠═➢ 🕊️ Ex: *.metalp SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.avengers*
 ╠══➢ ✖  Dec: *Send avengers logo*
-╠═➢ 🕊️ Ex: *.avengers SL-ASIATA*
+╠═➢ 🕊️ Ex: *.avengers SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.halloween*
 ╠══➢ ✖  Dec: *Send halloween logo*
-╠═➢ 🕊️ Ex: *.halloween SL-ASIATA
+╠═➢ 🕊️ Ex: *.halloween SIMPLE-BOT
 ║
 ╠═➢ 🕊️Cmd: *.horror*
 ╠══➢ ✖  Dec: *Send horror logo*
-╠═➢ 🕊️ Ex: *.horror SL-ASIATA*
+╠═➢ 🕊️ Ex: *.horror SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.glossyc*
 ╠══➢ ✖  Dec: *Send glossy logo*
-╠═➢ 🕊️ Ex: *.glossyc SL-ASIATA*
+╠═➢ 🕊️ Ex: *.glossyc SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.deluxe*
 ╠══➢ ✖  Dec: *Send deluxe logo*
-╠═➢ 🕊️ Ex: *.deluxe SL-ASIATA*
+╠═➢ 🕊️ Ex: *.deluxe SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.glossyb*
 ╠══➢ ✖  Dec: *Send glossy logo*
-╠═➢ 🕊️ Ex: *.glossyb SL-ASIATA*
+╠═➢ 🕊️ Ex: *.glossyb SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.joker*
 ╠══➢ ✖  Dec: *Send joker logo*
-╠═➢ 🕊️ Ex: *.joker SL-ASIATA*
+╠═➢ 🕊️ Ex: *.joker SIMPLE-BOT*
 ║
-║      ╔═🕊️ SL-ASIATA BOT 🕊️═╗
+║      ╔═🕊️ SIMPLE-BOT 🕊️═╗
 ║        ╚ ENJOY WITH US ╝
 ╚══════════════════════
 `, rowId:"rowid6"},
         {title: '🐼 ATTP PACK 🐼', description: `➶➶➶➶➶➶\n\n\n
 ╔═════════════════════╗
-║       ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋  
+║       ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋  
 ║        ║🕊️╚ATTP PACK╝🕊️║
 ║
 ╠═➢ 🕊️.01attp      ❴your text❵
@@ -951,19 +951,19 @@ Example : .covid Sri Lanka💝
 `, rowId:"rowid9"},
         {title: '🐼 ABOUT SL-ASIATA BOT 🐼', description:`➶➶➶➶➶➶\n\n\n
 🕊️ Developer : Hiruwa
-🕊️ Bot             : SL-ASIATA V 3.0.0 
+🕊️ Bot             : SIMPLE-BOT V 3.0.0 
 🕊️ Language : Sinhala & English
 🕊️ Sponcer Team : 2021©RavanaTech
 🕊️ Develop language : Node js
-🕊️ Developer no : wa.me/+94766816809
+🕊️ Developer no : wa.me/+94
 `, rowId:"rowid2"}
        ]
        
-       const sections = [{title: "🐼 SL-ASIATA Command Panel 🐼", rows: rows}]
+       const sections = [{title: "🐼 SIMPLE-BOT Command Panel 🐼", rows: rows}]
        
        const button = {
         buttonText: 'Click Me➶',
-        description: "🐼 SL-ASIATA ALL COMMAND 🐼",
+        description: "🐼 SIMPLE-BOT ALL COMMAND 🐼",
         sections: sections,
         listType: 1
        }
@@ -993,7 +993,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
     const rows = [
         {title: '🐼 ALL MENU 🐼', description: `➶➶➶➶➶➶\n\n\n
  ╭────────────────
- │ ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋
+ │ ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋
  ╰────────────────
  ╭────────────────
  │ Hello ➶ Dear
@@ -1111,7 +1111,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  │➶ .online store
  │ 
- │ 🐼 SL-ASIATA ONLINE 🐼
+ │ 🐼 SIMPLE-BOT ONLINE 🐼
  │     SHOPPING
  │
  │ ONLY SRI LANKAN 
@@ -1129,7 +1129,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │    your whatsapp 
  │ name,profile pic,bio
  │      easy with
- │      SL-ASIATA BOT
+ │      SIMPLE-BOT
  ╰────────────────
  ╭────────────────
  │    🕊️🐼 Search 🐼🕊️
@@ -1196,14 +1196,14 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╰────────────────
  
          🐼 POWERD BY 🐼
-   ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋
+   ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋
   
-       🐼       THISAN         🐼
+       🐼       KAVEESHA         🐼
 ` , rowId:"rowid1"},
         {title: '🐼 ADVANCE MENU 🐼', description: `➶➶➶➶➶➶\n\n\n
 ╔═══════════════════════╗
 
-            ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋
+            ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋
 
 ═════════════════════════
 
@@ -1339,11 +1339,11 @@ Example : .covid Sri Lanka💝
 
 *🕊️ Command:* 💝.insta💝
 
-*➢ Description:* 💝🕊️➢  ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋ Download instagram videos.💝
+*➢ Description:* 💝🕊️➢  ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋ Download instagram videos.💝
 
 *🕊️ Command:* 💝.fb💝
 
-*➢ Description:* 💝🕊️➢  ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋ Download Facebook videos.💝
+*➢ Description:* 💝🕊️➢  ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋ Download Facebook videos.💝
 
 *🕊️ Command:* 💝.trt💝
 
@@ -1504,91 +1504,91 @@ Example : .covid Sri Lanka💝
 ║
 ╠═➢ 🕊️Cmd: *.phub*
 ╠══➢ ✖ Dec: *Send pornhub logo*
-╠═➢ 🕊️ Ex: *.phub SL-ASIATA*
+╠═➢ 🕊️ Ex: *.phub SIMPLE-BOT*
 ║
 ╠═➢ 🕊️ Cmd: *.stone*
 ╠══➢ ✖ Dec: *Send stone like logo*
-╠═➢ 🕊️Ex: *.stone SL-ASIATA*
+╠═➢ 🕊️Ex: *.stone SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.glitch*
 ╠══➢ ✖ Dec: *Send glitch logo*
-╠═➢ 🕊️ Ex: *.glitch SL-ASIATA*
+╠═➢ 🕊️ Ex: *.glitch SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.space*
 ╠══➢ ✖ Dec: *Send space logo*
-╠═➢ 🕊️Ex: *.space SL-ASIATA*
+╠═➢ 🕊️Ex: *.space SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.blood*
 ╠══➢ ✖ Dec: *Send blood hor logo*
-╠═➢ 🕊️Ex: *.blood SL-ASIATA*
+╠═➢ 🕊️Ex: *.blood SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.blackpink*
 ╠══➢ ✖ Dec: *Send bpink logo*
-╠═➢ 🕊️Ex: *.blackpink SL-ASIATA*
+╠═➢ 🕊️Ex: *.blackpink SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.wall*
 ╠══➢ ✖ Dec: *Send wall art logo*
-╠═➢ 🕊️Ex: *.wall SL-ASIATA*
+╠═➢ 🕊️Ex: *.wall SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.coding*
 ╠══➢✖ Dec: *Send coding logo*
-╠═➢ 🕊️ Ex: *.coding SL-ASIATA*
+╠═➢ 🕊️ Ex: *.coding SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: .*.sand1*
 ╠══➢ ✖  Dec: *Send sand writting*
-╠═➢ 🕊️ Ex: *.sand1 SL-ASIATA*
+╠═➢ 🕊️ Ex: *.sand1 SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.sand2*
 ╠══➢ ✖ Dec: *Send sand writting*
-╠═➢ 🕊️Ex: *.sand2 SL-ASIATA
+╠═➢ 🕊️Ex: *.sand2 SIMPLE-BOT
 ║
 ╠═➢ 🕊️Cmd: *.sand3*
 ╠══➢ ✖ Dec: *Send sand writting*
-╠═➢ 🕊️Ex: *.sand3 SL-ASIATA
+╠═➢ 🕊️Ex: *.sand3 SIMPLE-BOT
 ║
 ╠═➢ 🕊️Cmd: *.beach*
 ╠══➢ ✖ Dec: *Send beach logo*
-╠═➢ 🕊️Ex: *.beach SL-ASIATA
+╠═➢ 🕊️Ex: *.beach SIMPLE-BOT
 ║
 ╠═➢ 🕊️Cmd: *.gradient*
 ╠══➢ ✖  Dec: *Send logo*
-╠═➢ 🕊️ Ex: *.gradient SL-ASIATA*
+╠═➢ 🕊️ Ex: *.gradient SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.luxury*
 ╠══➢ ✖  Dec: *Send luxury logo*
-╠═➢ 🕊️ Ex: *.luxury SL-ASIATA*
+╠═➢ 🕊️ Ex: *.luxury SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.sky*
 ╠══➢ ✖  Dec: *Send sky logo*
-╠═➢ 🕊️ Ex: *.sky SL-ASIATA*
+╠═➢ 🕊️ Ex: *.sky SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.winter*
 ╠══➢ ✖  Dec: *Send winter logo*
-╠═➢ 🕊️ Ex: *.winter SL-ASIATA
+╠═➢ 🕊️ Ex: *.winter SIMPLE-BOT
 ║
 ╠═➢ 🕊️Cmd: *.christmas*
 ╠══➢ ✖  Dec: *Send xmas logo*
-╠═➢ 🕊️ Ex: *.christmas SL-ASIATA*
+╠═➢ 🕊️ Ex: *.christmas SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.neon*
 ╠══➢ ✖  Dec: *Send neon logo*
-╠═➢ 🕊️ Ex: *.neon SL-ASIATA*
+╠═➢ 🕊️ Ex: *.neon SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.king*
 ╠══➢ ✖  Dec: *Send king logo*
-╠═➢ 🕊️ Ex: *.king SL-ASIATA*
+╠═➢ 🕊️ Ex: *.king SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.glue*
 ╠══➢ ✖  Dec: *Send Glue logo*
-╠═➢ 🕊️ Ex: *.glue SL-ASIATA*
+╠═➢ 🕊️ Ex: *.glue SIMPLE-BOT*
 ║
-║      ╔═🕊️ SL-ASIATA BOT 🕊️═╗
+║      ╔═🕊️ SIMPLE-BOT 🕊️═╗
 ║        ╚ ENJOY WITH US ╝
 ╚══════════════════════
 `, rowId:"rowid4"},
         {title: '🐼 FF PACK 🐼', description: `➶➶➶➶➶➶\n\n\n
 ╔═════════════════════╗
-║       ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋  
+║       ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋  
 ║         ║🕊️╚FF PACK╝🕊️║
 ║
 ╠═➢ 🕊️.ff9       ❴your text❵
@@ -1691,9 +1691,9 @@ Example : .covid Sri Lanka💝
 ║send free fire logo
 ║
 ║
-║➶Creator: THISAN 
+║➶Creator: KAVEESHA 
 ║
-║  ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋  
+║  ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋  
 ╚═════════════════════╝
 `, rowId:"rowid5"},
         {title: '🐼 LOGO PACK 02 🐼', description:`➶➶➶➶➶➶\n\n\n
@@ -1705,31 +1705,31 @@ Example : .covid Sri Lanka💝
 ║
 ╠═➢ 🕊️Cmd: *.wel*
 ╠══➢ ✖ Dec: *Send welcome logo*
-╠═➢ 🕊️ Ex: *.wel SL-ASIATA*
+╠═➢ 🕊️ Ex: *.wel SIMPLE-BOT*
 ║
 ╠═➢ 🕊️ Cmd: *.bye*
 ╠══➢ ✖ Dec: *Send bye logo*
-╠═➢ 🕊️Ex: *.bye SL-ASIATA*
+╠═➢ 🕊️Ex: *.bye SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.marvel*
 ╠══➢ ✖ Dec: *Send marve logo*
-╠═➢ 🕊️ Ex: *.marvel SL-ASIATA*
+╠═➢ 🕊️ Ex: *.marvel SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.2marvel*
 ╠══➢ ✖ Dec: *Send marvel logo*
-╠═➢ 🕊️Ex: *.2marvel SL-ASIATA*
+╠═➢ 🕊️Ex: *.mar2velL SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.wolf*
 ╠══➢ ✖ Dec: *Send wolf logo*
-╠═➢ 🕊️Ex: *.wolf SL-ASIATA*
+╠═➢ 🕊️Ex: *.wolf SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.lava*
 ╠══➢ ✖ Dec: *Send lava logo*
-╠═➢ 🕊️Ex: *.lava SL-ASIATA*
+╠═➢ 🕊️Ex: *.lava SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.xmas*
 ╠══➢ ✖ Dec: *Send xmas logo*
-╠═➢ 🕊️Ex: *.xmas SL-ASIATA*
+╠═➢ 🕊️Ex: *.xmas SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.round*
 ╠══➢✖ Dec: *Send round logo*
@@ -1737,31 +1737,31 @@ Example : .covid Sri Lanka💝
 ║
 ╠═➢ 🕊️Cmd: .*.quot*
 ╠══➢ ✖  Dec: *Send quote logo*
-╠═➢ 🕊️ Ex: *.quot SL-ASIATA*
+╠═➢ 🕊️ Ex: *.quot SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.harta*
 ╠══➢ ✖ Dec: *Send harta logo*
-╠═➢ 🕊️Ex: *.harta SL-ASIATA
+╠═➢ 🕊️Ex: *.harta SIMPLE-BOT
 ║
 ╠═➢ 🕊️Cmd: *.1917*
 ╠══➢ ✖ Dec: *Send 1917 logo*
-╠═➢ 🕊️Ex: *.1917 SL-ASIATA
+╠═➢ 🕊️Ex: *.1917 SIMPLE-BOT
 ║
 ╠═➢ 🕊️Cmd: *.minion*
 ╠══➢ ✖ Dec: *Send minion logo*
-╠═➢ 🕊️Ex: *.minion SL-ASIATA
+╠═➢ 🕊️Ex: *.minion SIMPLE-BOT
 ║
 ╠═➢ 🕊️Cmd: *.holo*
 ╠══➢ ✖  Dec: *Send holo logo*
-╠═➢ 🕊️ Ex: *.holo SL-ASIATA*
+╠═➢ 🕊️ Ex: *.holo SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.metalp*
 ╠══➢ ✖  Dec: *Send metalp logo*
-╠═➢ 🕊️ Ex: *.metalp SL-ASIATA*
+╠═➢ 🕊️ Ex: *.metalp SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.avengers*
 ╠══➢ ✖  Dec: *Send avengers logo*
-╠═➢ 🕊️ Ex: *.avengers SL-ASIATA*
+╠═➢ 🕊️ Ex: *.avengers SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.halloween*
 ╠══➢ ✖  Dec: *Send halloween logo*
@@ -1769,31 +1769,31 @@ Example : .covid Sri Lanka💝
 ║
 ╠═➢ 🕊️Cmd: *.horror*
 ╠══➢ ✖  Dec: *Send horror logo*
-╠═➢ 🕊️ Ex: *.horror SL-ASIATA*
+╠═➢ 🕊️ Ex: *.horror SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.glossyc*
 ╠══➢ ✖  Dec: *Send glossy logo*
-╠═➢ 🕊️ Ex: *.glossyc SL-ASIATA*
+╠═➢ 🕊️ Ex: *.glossyc SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.deluxe*
 ╠══➢ ✖  Dec: *Send deluxe logo*
-╠═➢ 🕊️ Ex: *.deluxe SL-ASIATA*
+╠═➢ 🕊️ Ex: *.deluxe SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.glossyb*
 ╠══➢ ✖  Dec: *Send glossy logo*
-╠═➢ 🕊️ Ex: *.glossyb SL-ASIATA*
+╠═➢ 🕊️ Ex: *.glossyb SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.joker*
 ╠══➢ ✖  Dec: *Send joker logo*
-╠═➢ 🕊️ Ex: *.joker SL-ASIATA*
+╠═➢ 🕊️ Ex: *.joker SIMPLE-BOT*
 ║
-║      ╔═🕊️ SL-ASIATA BOT 🕊️═╗
+║      ╔═🕊️ SIMPLE-BOT 🕊️═╗
 ║        ╚ ENJOY WITH US ╝
 ╚══════════════════════
 `, rowId:"rowid6"},
         {title: '🐼 ATTP PACK 🐼', description: `➶➶➶➶➶➶\n\n\n
 ╔═════════════════════╗
-║       ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋  
+║       ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋  
 ║        ║🕊️╚ATTP PACK╝🕊️║
 ║
 ╠═➢ 🕊️.01attp      ❴your text❵
@@ -1877,9 +1877,9 @@ Example : .covid Sri Lanka💝
 ╠═➢ 🕊️.40attp       ❴your text❵
 ║send Text logo
 ║
-║➶Creator: THISAN 
+║➶Creator: KAVEESHA 
 ║
-║  ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋  
+║  ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋  
 ╚═════════════════════╝
 
 `, rowId:"rowid20"},
@@ -1901,26 +1901,26 @@ Example : .covid Sri Lanka💝
  │
  ╰────────────────
 `, rowId:"rowid8"},
-        {title: '🐼 ABOUT SL-ASIATA BOT 🐼', description: `➶➶➶➶➶➶\n\n\n
-🕊️ Developer : THISAN
-🕊️ Bot             : SL-ASIATA V 3.0.0 
+        {title: '🐼 ABOUT SIMPLE-BOT 🐼', description: `➶➶➶➶➶➶\n\n\n
+🕊️ Developer : KAVEESHA
+🕊️ Bot             : SIMPLE-BOT V 3.0.0 
 🕊️ Language : Sinhala & English
 🕊️ Sponcer Team : 2021©RavanaTech
 🕊️ Develop language : Node js
-🕊️ Developer no : wa.me/+94766816809
+🕊️ Developer no : wa.me/+94
 `, rowId:"rowid9"},
         {title: '🐼 ADMIN PANEL 🐼', description: `➶➶➶➶➶➶\n\n\n
- ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋\n\n🕊️ COMMAND: *.ban*\nℹ️ DESCRIPTION: Remove someone from the group. Mention the message or tag a person to use command.\n\n🕊️ COMMAND: *.add*\nℹ️ DESCRIPTION: Adds someone to the group.\n\n🕊️ COMMAND: *.mute*\nℹ️ DESCRIPTION: Mute group chat. Messages can only be sent by admin. \n\n🕊️ COMMAND: *.unmute*\nℹ️ DESCRIPTION: Remove group chat mute. Anyone can send a message.\n\n🕊️ COMMAND: *.clear*\nℹ️ DESCRIPTION: Clearing chat.\n\n🕊️ COMMAND: *.name*\nℹ️ DESCRIPTION: Change group name. \n\n🕊️ COMMAND: *.promote*\nℹ️ DESCRIPTION: Promoting members to admin.\n\n🕊️ COMMAND: *.demote*\nℹ️ DESCRIPTION: Demoting admins.\n\n🕊️ COMMAND: *.myplugin*\nℹ️ DESCRIPTION: To view the current plugin list from  ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋.\n\n🕊️ COMMAND: *.plug*\nℹ️ DESCRIPTION: Install external plugins.\n\n🕊️ COMMAND: *.unplug*\nℹ️ DESCRIPTION: Removes the plugin.\n\n🕊️ COMMAND: *.invite*\nℹ️ DESCRIPTION: Provides group invitation link.\n\n🕊️ COMMAND: *.afk*\nℹ️ DESCRIPTION: It turns bot bot AFK - Away From Keyboard.\n\n🕊️ COMMAND: *.restart*\n➢ DESCRIPTION: Restart the bot.\n\n🕊️ COMMAND: *.shutdown*\n➢ DESCRIPTION: Shutdown the Bot.\n\n🕊️ COMMAND: *.setvar*\n➢ DESCRIPTION: Change heroku config vars.\n\n🕊️ COMMAND: *.getvar*\n➢ DESCRIPTION: Get heroku config var.\n\n🕊️ COMMAND: *.speedtest*\n➢ DESCRIPTION:Check download and upload speed.\n\n🕊️ COMMAND: *.filter*\nℹ️ DESCRIPTION: It adds filters. If someone writes your filter word, it sends the answer. If you write a .filter it will show your list of filters.\n\n🕊️ COMMAND: *.stop*\nℹ️ DESCRIPTION: Stops the filters you added earlier.\n\n🕊️ COMMAND: *.welcome*\nℹ️ DESCRIPTION: It sets the welcome message.\n\n🕊️ COMMAND: *.goodbye*\nℹ️ DESCRIPTION: Sets the goodbye  message.\n\n🕊️ COMMAND: *.kickme*\nℹ️ DESCRIPTION: It removes the bot from the group that provided the command.\n\n🕊️ COMMAND: *.pp*\nℹ️ DESCRIPTION: The photo you mention mentions the bot profile photo.\n\n🕊️ COMMAND: *.block*\nℹ️ DESCRIPTION: Block tagged user.\n\n🕊️ COMMAND: *.unblock*\nℹ️ DESCRIPTION: Unblock tagged user.\n\n🕊️ COMMAND: *.jid*\nℹ️ DESCRIPTION: Giving user JID.\n\n🕊️ COMMAND *.tagall*\nℹ️ DESCRIPTION: Tag everyone in group.\n\n🕊️ COMMAND: *.up*\nℹ️ DESCRIPTION: Check for updates.\n\n🕊️ COMMAND: *.upasiata*\nℹ️ DESCRIPTION: To update your bot.\n\n🕊️ COMMAND: *.dyno*\nℹ️ DESCRIPTION: Showing heroku dyno hours.\n\n🕊️ COMMAND: *.sysd*\nℹ️ DESCRIPTION: Show system properties.\n\n🕊️ COMMAND: *.scam*\nℹ️ DESCRIPTION: Scam actions for 5min.\n\n🕊️ COMMAND: *.antilink*\nℹ️ DESCRIPTION: Anti link on Ex: .antilink on/off\n\n🕊️ COMMAND: *.antibad*\nℹ️ DESCRIPTION: Remove bad word users Ex: .antibad on/off\n\n🕊️ COMMAND: *.chatbot*\nℹ️DESCRIPTION: Auto chat on Ex: .chatbot on/off\n🐼 Command: .voice on/off\n➶ Description: Activate and deactivate voice chat\n\n🐼 Command: .public ➶ Description: set bot as public\n\n 🐼 Command: .private\n➶ Description: Set your bot as private\n\n*⚠️ The above command only works for Admin, Bot and SUDO numbers.\n\n ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋*
+ ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋\n\n🕊️ COMMAND: *.ban*\nℹ️ DESCRIPTION: Remove someone from the group. Mention the message or tag a person to use command.\n\n🕊️ COMMAND: *.add*\nℹ️ DESCRIPTION: Adds someone to the group.\n\n🕊️ COMMAND: *.mute*\nℹ️ DESCRIPTION: Mute group chat. Messages can only be sent by admin. \n\n🕊️ COMMAND: *.unmute*\nℹ️ DESCRIPTION: Remove group chat mute. Anyone can send a message.\n\n🕊️ COMMAND: *.clear*\nℹ️ DESCRIPTION: Clearing chat.\n\n🕊️ COMMAND: *.name*\nℹ️ DESCRIPTION: Change group name. \n\n🕊️ COMMAND: *.promote*\nℹ️ DESCRIPTION: Promoting members to admin.\n\n🕊️ COMMAND: *.demote*\nℹ️ DESCRIPTION: Demoting admins.\n\n🕊️ COMMAND: *.myplugin*\nℹ️ DESCRIPTION: To view the current plugin list from  ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋.\n\n🕊️ COMMAND: *.plug*\nℹ️ DESCRIPTION: Install external plugins.\n\n🕊️ COMMAND: *.unplug*\nℹ️ DESCRIPTION: Removes the plugin.\n\n🕊️ COMMAND: *.invite*\nℹ️ DESCRIPTION: Provides group invitation link.\n\n🕊️ COMMAND: *.afk*\nℹ️ DESCRIPTION: It turns bot bot AFK - Away From Keyboard.\n\n🕊️ COMMAND: *.restart*\n➢ DESCRIPTION: Restart the bot.\n\n🕊️ COMMAND: *.shutdown*\n➢ DESCRIPTION: Shutdown the Bot.\n\n🕊️ COMMAND: *.setvar*\n➢ DESCRIPTION: Change heroku config vars.\n\n🕊️ COMMAND: *.getvar*\n➢ DESCRIPTION: Get heroku config var.\n\n🕊️ COMMAND: *.speedtest*\n➢ DESCRIPTION:Check download and upload speed.\n\n🕊️ COMMAND: *.filter*\nℹ️ DESCRIPTION: It adds filters. If someone writes your filter word, it sends the answer. If you write a .filter it will show your list of filters.\n\n🕊️ COMMAND: *.stop*\nℹ️ DESCRIPTION: Stops the filters you added earlier.\n\n🕊️ COMMAND: *.welcome*\nℹ️ DESCRIPTION: It sets the welcome message.\n\n🕊️ COMMAND: *.goodbye*\nℹ️ DESCRIPTION: Sets the goodbye  message.\n\n🕊️ COMMAND: *.kickme*\nℹ️ DESCRIPTION: It removes the bot from the group that provided the command.\n\n🕊️ COMMAND: *.pp*\nℹ️ DESCRIPTION: The photo you mention mentions the bot profile photo.\n\n🕊️ COMMAND: *.block*\nℹ️ DESCRIPTION: Block tagged user.\n\n🕊️ COMMAND: *.unblock*\nℹ️ DESCRIPTION: Unblock tagged user.\n\n🕊️ COMMAND: *.jid*\nℹ️ DESCRIPTION: Giving user JID.\n\n🕊️ COMMAND *.tagall*\nℹ️ DESCRIPTION: Tag everyone in group.\n\n🕊️ COMMAND: *.up*\nℹ️ DESCRIPTION: Check for updates.\n\n🕊️ COMMAND: *.upasiata*\nℹ️ DESCRIPTION: To update your bot.\n\n🕊️ COMMAND: *.dyno*\nℹ️ DESCRIPTION: Showing heroku dyno hours.\n\n🕊️ COMMAND: *.sysd*\nℹ️ DESCRIPTION: Show system properties.\n\n🕊️ COMMAND: *.scam*\nℹ️ DESCRIPTION: Scam actions for 5min.\n\n🕊️ COMMAND: *.antilink*\nℹ️ DESCRIPTION: Anti link on Ex: .antilink on/off\n\n🕊️ COMMAND: *.antibad*\nℹ️ DESCRIPTION: Remove bad word users Ex: .antibad on/off\n\n🕊️ COMMAND: *.chatbot*\nℹ️DESCRIPTION: Auto chat on Ex: .chatbot on/off\n🐼 Command: .voice on/off\n➶ Description: Activate and deactivate voice chat\n\n🐼 Command: .public ➶ Description: set bot as public\n\n 🐼 Command: .private\n➶ Description: Set your bot as private\n\n*⚠️ The above command only works for Admin, Bot and SUDO numbers.\n\n ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋*
 `, rowId:"rowid10"},
         {title: '🐼 Work Type PUBLIC 🐼', description: "➶➶➶➶➶➶\n\n\n Type .public to public mode ➶", rowId:"rowid9"},
         {title: '🐼 Work Type PRIVATE 🐼', description:"➶➶➶➶➶➶\n\n\n Type .private to private mode ➶", rowId:"rowid2"}
        ]
        
-       const sections = [{title: "🐼 SL-ASIATA Command Panel 🐼", rows: rows}]
+       const sections = [{title: "🐼 SIMPLE-BOT Command Panel 🐼", rows: rows}]
        
        const button = {
         buttonText: '🇱🇰Click Me💝',
-        description: "🐼 SL-ASIATA COMMAND PANEL 🐼",
+        description: "🐼 SIMPLE-BOT COMMAND PANEL 🐼",
         sections: sections,
         listType: 1
        }
@@ -1957,7 +1957,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
     const rows = [
         {title: '🐼 ALL MENU 🐼', description: `➶➶➶➶➶~\n\n\n
  ╭────────────────
- │ ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋
+ │ ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋
  ╰────────────────
  ╭────────────────
  │ Hello ➶ Dear
@@ -2075,7 +2075,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  │➶ .online store
  │ 
- │ 🐼 SL-ASIATA ONLINE 🐼
+ │ 🐼 SIMPLE-BOT ONLINE 🐼
  │     SHOPPING
  │
  │ ONLY SRI LANKAN 
@@ -2093,7 +2093,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │    your whatsapp 
  │ name,profile pic,bio
  │      easy with
- │      SL-ASIATA BOT
+ │      SIMPLE-BOT
  ╰────────────────
  ╭────────────────
  │    🕊️🐼 Search 🐼🕊️
@@ -2160,14 +2160,14 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╰────────────────
  
          🐼 POWERD BY 🐼
-   ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋
+   ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋
   
        🐼       THISAN        🐼
 ` , rowId:"rowid1"},
         {title: '🐼 ADVANCE MENU 🐼', description: `➶➶➶➶➶➶\n\n\n
 ╔═══════════════════════╗
 
-            ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋
+            ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋
 
 ═════════════════════════
 
@@ -2303,11 +2303,11 @@ Example : .covid Sri Lanka💝
 
 *🕊️ Command:* 💝.insta💝
 
-*➢ Description:* 💝🕊️➢  ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋ Download instagram videos.💝
+*➢ Description:* 💝🕊️➢  ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋ Download instagram videos.💝
 
 *?? Command:* 💝.fb💝
 
-*➢ Description:* 💝🕊️➢  ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋ Download Facebook videos.💝
+*➢ Description:* 💝🕊️➢  ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋ Download Facebook videos.💝
 
 *🕊️ Command:* 💝.trt💝
 
@@ -2468,91 +2468,91 @@ Example : .covid Sri Lanka💝
 ║
 ╠═➢ 🕊️Cmd: *.phub*
 ╠══➢ ✖ Dec: *Send pornhub logo*
-╠═➢ 🕊️ Ex: *.phub SL-ASIATA*
+╠═➢ 🕊️ Ex: *.phub SIMPLE-BOT*
 ║
 ╠═➢ 🕊️ Cmd: *.stone*
 ╠══➢ ✖ Dec: *Send stone like logo*
-╠═➢ 🕊️Ex: *.stone SL-ASIATA*
+╠═➢ 🕊️Ex: *.stone SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.glitch*
 ╠══➢ ✖ Dec: *Send glitch logo*
-╠═➢ 🕊️ Ex: *.glitch SL-ASIATA*
+╠═➢ 🕊️ Ex: *.glitch SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.space*
 ╠══➢ ✖ Dec: *Send space logo*
-╠═➢ 🕊️Ex: *.space SL-ASIATA*
+╠═➢ 🕊️Ex: *.space SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.blood*
 ╠══➢ ✖ Dec: *Send blood hor logo*
-╠═➢ 🕊️Ex: *.blood SL-ASIATA*
+╠═➢ 🕊️Ex: *.blood SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.blackpink*
 ╠══➢ ✖ Dec: *Send bpink logo*
-╠═➢ 🕊️Ex: *.blackpink SL-ASIATA*
+╠═➢ 🕊️Ex: *.blackpink SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.wall*
 ╠══➢ ✖ Dec: *Send wall art logo*
-╠═➢ 🕊️Ex: *.wall SL-ASIATA*
+╠═➢ 🕊️Ex: *.wall SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.coding*
 ╠══➢✖ Dec: *Send coding logo*
-╠═➢ 🕊️ Ex: *.coding SL-ASIATA*
+╠═➢ 🕊️ Ex: *.coding SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: .*.sand1*
 ╠══➢ ✖  Dec: *Send sand writting*
-╠═➢ 🕊️ Ex: *.sand1 SL-ASIATA*
+╠═➢ 🕊️ Ex: *.sand1 SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.sand2*
 ╠══➢ ✖ Dec: *Send sand writting*
-╠═➢ 🕊️Ex: *.sand2 SL-ASIATA
+╠═➢ 🕊️Ex: *.sand2 SIMPLE-BOT
 ║
 ╠═➢ 🕊️Cmd: *.sand3*
 ╠══➢ ✖ Dec: *Send sand writting*
-╠═➢ 🕊️Ex: *.sand3 SL-ASIATA
+╠═➢ 🕊️Ex: *.sand3 SIMPLE-BOT
 ║
 ╠═➢ 🕊️Cmd: *.beach*
 ╠══➢ ✖ Dec: *Send beach logo*
-╠═➢ 🕊️Ex: *.beach SL-ASIATA
+╠═➢ 🕊️Ex: *.beach SIMPLE-BOT
 ║
 ╠═➢ 🕊️Cmd: *.gradient*
 ╠══➢ ✖  Dec: *Send logo*
-╠═➢ 🕊️ Ex: *.gradient SL-ASIATA*
+╠═➢ 🕊️ Ex: *.gradient SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.luxury*
 ╠══➢ ✖  Dec: *Send luxury logo*
-╠═➢ 🕊️ Ex: *.luxury SL-ASIATA*
+╠═➢ 🕊️ Ex: *.luxury SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.sky*
 ╠══➢ ✖  Dec: *Send sky logo*
-╠═➢ 🕊️ Ex: *.sky SL-ASIATA*
+╠═➢ 🕊️ Ex: *.sky SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.winter*
 ╠══➢ ✖  Dec: *Send winter logo*
-╠═➢ 🕊️ Ex: *.winter SL-ASIATA
+╠═➢ 🕊️ Ex: *.winter SIMPLE-BOT
 ║
 ╠═➢ 🕊️Cmd: *.christmas*
 ╠══➢ ✖  Dec: *Send xmas logo*
-╠═➢ 🕊️ Ex: *.christmas SL-ASIATA*
+╠═➢ 🕊️ Ex: *.christmas SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.neon*
 ╠══➢ ✖  Dec: *Send neon logo*
-╠═➢ 🕊️ Ex: *.neon SL-ASIATA*
+╠═➢ 🕊️ Ex: *.neon SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.king*
 ╠══➢ ✖  Dec: *Send king logo*
-╠═➢ 🕊️ Ex: *.king SL-ASIATA*
+╠═➢ 🕊️ Ex: *.king SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.glue*
 ╠══➢ ✖  Dec: *Send Glue logo*
-╠═➢ 🕊️ Ex: *.glue SL-ASIATA*
+╠═➢ 🕊️ Ex: *.glue SIMPLE-BOT*
 ║
-║      ╔═🕊️ SL-ASIATA BOT 🕊️═╗
+║      ╔═🕊️ SIMPLE-BOT 🕊️═╗
 ║        ╚ ENJOY WITH US ╝
 ╚══════════════════════
 `, rowId:"rowid4"},
         {title: '🐼 FF PACK 🐼', description: `➶➶➶➶➶➶\n\n\n
 ╔═════════════════════╗
-║       ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋  
+║       ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋  
 ║         ║🕊️╚FF PACK╝🕊️║
 ║
 ╠═➢ 🕊️.ff9       ❴your text❵
@@ -2655,9 +2655,9 @@ Example : .covid Sri Lanka💝
 ║send free fire logo
 ║
 ║
-║➶Creator: THISAN 
+║➶Creator: KAVEESHA 
 ║
-║  ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋  
+║  ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋  
 ╚═════════════════════╝
 `, rowId:"rowid5"},
         {title: '🐼 LOGO PACK 02 🐼', description:`➶➶➶➶➶➶\n\n\n
@@ -2669,31 +2669,31 @@ Example : .covid Sri Lanka💝
 ║
 ╠═➢ 🕊️Cmd: *.wel*
 ╠══➢ ✖ Dec: *Send welcome logo*
-╠═➢ 🕊️ Ex: *.wel SL-ASIATA*
+╠═➢ 🕊️ Ex: *.wel SIMPLE-BOT*
 ║
 ╠═➢ 🕊️ Cmd: *.bye*
 ╠══➢ ✖ Dec: *Send bye logo*
-╠═➢ 🕊️Ex: *.bye SL-ASIATA*
+╠═➢ 🕊️Ex: *.bye SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.marvel*
 ╠══➢ ✖ Dec: *Send marve logo*
-╠═➢ 🕊️ Ex: *.marvel SL-ASIATA*
+╠═➢ 🕊️ Ex: *.marvel SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.2marvel*
 ╠══➢ ✖ Dec: *Send marvel logo*
-╠═➢ 🕊️Ex: *.2marvel SL-ASIATA*
+╠═➢ 🕊️Ex: *.2marvel SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.wolf*
 ╠══➢ ✖ Dec: *Send wolf logo*
-╠═➢ 🕊️Ex: *.wolf SL-ASIATA*
+╠═➢ 🕊️Ex: *.wolf SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.lava*
 ╠══➢ ✖ Dec: *Send lava logo*
-╠═➢ 🕊️Ex: *.lava SL-ASIATA*
+╠═➢ 🕊️Ex: *.lava SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.xmas*
 ╠══➢ ✖ Dec: *Send xmas logo*
-╠═➢ 🕊️Ex: *.xmas SL-ASIATA*
+╠═➢ 🕊️Ex: *.xmas SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.round*
 ╠══➢✖ Dec: *Send round logo*
@@ -2701,63 +2701,63 @@ Example : .covid Sri Lanka💝
 ║
 ╠═➢ 🕊️Cmd: .*.quot*
 ╠══➢ ✖  Dec: *Send quote logo*
-╠═➢ 🕊️ Ex: *.quot SL-ASIATA*
+╠═➢ 🕊️ Ex: *.quot SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.harta*
 ╠══➢ ✖ Dec: *Send harta logo*
-╠═➢ 🕊️Ex: *.harta SL-ASIATA
+╠═➢ 🕊️Ex: *.harta SIMPLE-BOT
 ║
 ╠═➢ 🕊️Cmd: *.1917*
 ╠══➢ ✖ Dec: *Send 1917 logo*
-╠═➢ 🕊️Ex: *.1917 SL-ASIATA
+╠═➢ 🕊️Ex: *.1917 SIMPLE-BOT
 ║
 ╠═➢ 🕊️Cmd: *.minion*
 ╠══➢ ✖ Dec: *Send minion logo*
-╠═➢ 🕊️Ex: *.minion SL-ASIATA
+╠═➢ 🕊️Ex: *.minion SIMPLE-BOT
 ║
 ╠═➢ 🕊️Cmd: *.holo*
 ╠══➢ ✖  Dec: *Send holo logo*
-╠═➢ 🕊️ Ex: *.holo SL-ASIATA*
+╠═➢ 🕊️ Ex: *.holo SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.metalp*
 ╠══➢ ✖  Dec: *Send metalp logo*
-╠═➢ 🕊️ Ex: *.metalp SL-ASIATA*
+╠═➢ 🕊️ Ex: *.metalp SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.avengers*
 ╠══➢ ✖  Dec: *Send avengers logo*
-╠═➢ 🕊️ Ex: *.avengers SL-ASIATA*
+╠═➢ 🕊️ Ex: *.avengers SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.halloween*
 ╠══➢ ✖  Dec: *Send halloween logo*
-╠═➢ 🕊️ Ex: *.halloween SL-ASIATA
+╠═➢ 🕊️ Ex: *.halloween SIMPLE-BOT
 ║
 ╠═➢ 🕊️Cmd: *.horror*
 ╠══➢ ✖  Dec: *Send horror logo*
-╠═➢ 🕊️ Ex: *.horror SL-ASIATA*
+╠═➢ 🕊️ Ex: *.horror SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.glossyc*
 ╠══➢ ✖  Dec: *Send glossy logo*
-╠═➢ 🕊️ Ex: *.glossyc SL-ASIATA*
+╠═➢ 🕊️ Ex: *.glossyc SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.deluxe*
 ╠══➢ ✖  Dec: *Send deluxe logo*
-╠═➢ 🕊️ Ex: *.deluxe SL-ASIATA*
+╠═➢ 🕊️ Ex: *.deluxe SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.glossyb*
 ╠══➢ ✖  Dec: *Send glossy logo*
-╠═➢ 🕊️ Ex: *.glossyb SL-ASIATA*
+╠═➢ 🕊️ Ex: *.glossyb SIMPLE-BOT*
 ║
 ╠═➢ 🕊️Cmd: *.joker*
 ╠══➢ ✖  Dec: *Send joker logo*
-╠═➢ 🕊️ Ex: *.joker SL-ASIATA*
+╠═➢ 🕊️ Ex: *.joker SIMPLE-BOT*
 ║
-║      ╔═🕊️ SL-ASIATA BOT 🕊️═╗
+║      ╔═🕊️ SIMPLE-BOT 🕊️═╗
 ║        ╚ ENJOY WITH US ╝
 ╚══════════════════════
 `, rowId:"rowid6"},
         {title: '🐼 ATTP PACK 🐼', description: `➶➶➶➶➶➶\n\n\n
 ╔═════════════════════╗
-║       ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋  
+║       ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋  
 ║        ║🕊️╚ATTP PACK╝🕊️║
 ║
 ╠═➢ 🕊️.01attp      ❴your text❵
@@ -2841,9 +2841,9 @@ Example : .covid Sri Lanka💝
 ╠═➢ 🕊️.40attp       ❴your text❵
 ║send Text logo
 ║
-║➶Creator: THISAN 
+║➶Creator: KAVEESHA 
 ║
-║  ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋  
+║  ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋  
 ╚═════════════════════╝
 
 `, rowId:"rowid20"},
@@ -2865,26 +2865,26 @@ Example : .covid Sri Lanka💝
  │
  ╰────────────────
 `, rowId:"rowid8"},
-        {title: '🐼 ABOUT SL-ASIATA BOT 🐼', description: `➶➶➶➶➶➶\n\n\n
-🕊️ Developer : THISAN 
-🕊️ Bot             : SL-ASIATA V 3.0.0 
+        {title: '🐼 ABOUT SIMPLE-BOT 🐼', description: `➶➶➶➶➶➶\n\n\n
+🕊️ Developer : KAVEESHA 
+🕊️ Bot             : SIMPLE-BOT V 3.0.0 
 🕊️ Language : Sinhala & English
 🕊️ Sponcer Team : 2021©RavanaTech
 🕊️ Develop language : Node js
 🕊️ Developer no : wa.me/+94766816809
 `, rowId:"rowid9"},
         {title: '🐼 ADMIN PANEL 🐼', description: `➶➶➶➶➶➶\n\n\n
- ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋\n\n🕊️ COMMAND: *.ban*\nℹ️ DESCRIPTION: Remove someone from the group. Mention the message or tag a person to use command.\n\n🕊️ COMMAND: *.add*\nℹ️ DESCRIPTION: Adds someone to the group.\n\n🕊️ COMMAND: *.mute*\nℹ️ DESCRIPTION: Mute group chat. Messages can only be sent by admin. \n\n🕊️ COMMAND: *.unmute*\nℹ️ DESCRIPTION: Remove group chat mute. Anyone can send a message.\n\n🕊️ COMMAND: *.clear*\nℹ️ DESCRIPTION: Clearing chat.\n\n🕊️ COMMAND: *.name*\nℹ️ DESCRIPTION: Change group name. \n\n🕊️ COMMAND: *.promote*\nℹ️ DESCRIPTION: Promoting members to admin.\n\n🕊️ COMMAND: *.demote*\nℹ️ DESCRIPTION: Demoting admins.\n\n🕊️ COMMAND: *.myplugin*\nℹ️ DESCRIPTION: To view the current plugin list from  ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋.\n\n🕊️ COMMAND: *.plug*\nℹ️ DESCRIPTION: Install external plugins.\n\n🕊️ COMMAND: *.unplug*\nℹ️ DESCRIPTION: Removes the plugin.\n\n🕊️ COMMAND: *.invite*\nℹ️ DESCRIPTION: Provides group invitation link.\n\n🕊️ COMMAND: *.afk*\nℹ️ DESCRIPTION: It turns bot bot AFK - Away From Keyboard.\n\n🕊️ COMMAND: *.restart*\n➢ DESCRIPTION: Restart the bot.\n\n🕊️ COMMAND: *.shutdown*\n➢ DESCRIPTION: Shutdown the Bot.\n\n🕊️ COMMAND: *.setvar*\n➢ DESCRIPTION: Change heroku config vars.\n\n🕊️ COMMAND: *.getvar*\n➢ DESCRIPTION: Get heroku config var.\n\n🕊️ COMMAND: *.speedtest*\n➢ DESCRIPTION:Check download and upload speed.\n\n🕊️ COMMAND: *.filter*\nℹ️ DESCRIPTION: It adds filters. If someone writes your filter word, it sends the answer. If you write a .filter it will show your list of filters.\n\n🕊️ COMMAND: *.stop*\nℹ️ DESCRIPTION: Stops the filters you added earlier.\n\n🕊️ COMMAND: *.welcome*\nℹ️ DESCRIPTION: It sets the welcome message.\n\n🕊️ COMMAND: *.goodbye*\nℹ️ DESCRIPTION: Sets the goodbye  message.\n\n🕊️ COMMAND: *.kickme*\nℹ️ DESCRIPTION: It removes the bot from the group that provided the command.\n\n🕊️ COMMAND: *.pp*\nℹ️ DESCRIPTION: The photo you mention mentions the bot profile photo.\n\n🕊️ COMMAND: *.block*\nℹ️ DESCRIPTION: Block tagged user.\n\n🕊️ COMMAND: *.unblock*\nℹ️ DESCRIPTION: Unblock tagged user.\n\n🕊️ COMMAND: *.jid*\nℹ️ DESCRIPTION: Giving user JID.\n\n🕊️ COMMAND *.tagall*\nℹ️ DESCRIPTION: Tag everyone in group.\n\n🕊️ COMMAND: *.up*\nℹ️ DESCRIPTION: Check for updates.\n\n🕊️ COMMAND: *.upasiata*\nℹ️ DESCRIPTION: To update your bot.\n\n🕊️ COMMAND: *.dyno*\nℹ️ DESCRIPTION: Showing heroku dyno hours.\n\n🕊️ COMMAND: *.sysd*\nℹ️ DESCRIPTION: Show system properties.\n\n🕊️ COMMAND: *.scam*\nℹ️ DESCRIPTION: Scam actions for 5min.\n\n🕊️ COMMAND: *.antilink*\nℹ️ DESCRIPTION: Anti link on Ex: .antilink on/off\n\n🕊️ COMMAND: *.antibad*\nℹ️ DESCRIPTION: Remove bad word users Ex: .antibad on/off\n\n🕊️ COMMAND: *.chatbot*\nℹ️DESCRIPTION: Auto chat on Ex: .chatbot on/off\n🐼 Command: .voice on/off\n➶ Description: Activate and deactivate voice chat\n\n🐼 Command: .public ➶ Description: set bot as public\n\n 🐼 Command: .private\n➶ Description: Set your bot as private\n\n*⚠️ The above command only works for Admin, Bot and SUDO numbers.\n\n ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋*
+ ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋\n\n🕊️ COMMAND: *.ban*\nℹ️ DESCRIPTION: Remove someone from the group. Mention the message or tag a person to use command.\n\n🕊️ COMMAND: *.add*\nℹ️ DESCRIPTION: Adds someone to the group.\n\n🕊️ COMMAND: *.mute*\nℹ️ DESCRIPTION: Mute group chat. Messages can only be sent by admin. \n\n🕊️ COMMAND: *.unmute*\nℹ️ DESCRIPTION: Remove group chat mute. Anyone can send a message.\n\n🕊️ COMMAND: *.clear*\nℹ️ DESCRIPTION: Clearing chat.\n\n🕊️ COMMAND: *.name*\nℹ️ DESCRIPTION: Change group name. \n\n🕊️ COMMAND: *.promote*\nℹ️ DESCRIPTION: Promoting members to admin.\n\n🕊️ COMMAND: *.demote*\nℹ️ DESCRIPTION: Demoting admins.\n\n🕊️ COMMAND: *.myplugin*\nℹ️ DESCRIPTION: To view the current plugin list from  ┋✖☛🧚‍♂️ASIATA🧚‍♂️☚✖┋.\n\n🕊️ COMMAND: *.plug*\nℹ️ DESCRIPTION: Install external plugins.\n\n🕊️ COMMAND: *.unplug*\nℹ️ DESCRIPTION: Removes the plugin.\n\n🕊️ COMMAND: *.invite*\nℹ️ DESCRIPTION: Provides group invitation link.\n\n🕊️ COMMAND: *.afk*\nℹ️ DESCRIPTION: It turns bot bot AFK - Away From Keyboard.\n\n🕊️ COMMAND: *.restart*\n➢ DESCRIPTION: Restart the bot.\n\n🕊️ COMMAND: *.shutdown*\n➢ DESCRIPTION: Shutdown the Bot.\n\n🕊️ COMMAND: *.setvar*\n➢ DESCRIPTION: Change heroku config vars.\n\n🕊️ COMMAND: *.getvar*\n➢ DESCRIPTION: Get heroku config var.\n\n🕊️ COMMAND: *.speedtest*\n➢ DESCRIPTION:Check download and upload speed.\n\n🕊️ COMMAND: *.filter*\nℹ️ DESCRIPTION: It adds filters. If someone writes your filter word, it sends the answer. If you write a .filter it will show your list of filters.\n\n🕊️ COMMAND: *.stop*\nℹ️ DESCRIPTION: Stops the filters you added earlier.\n\n🕊️ COMMAND: *.welcome*\nℹ️ DESCRIPTION: It sets the welcome message.\n\n🕊️ COMMAND: *.goodbye*\nℹ️ DESCRIPTION: Sets the goodbye  message.\n\n🕊️ COMMAND: *.kickme*\nℹ️ DESCRIPTION: It removes the bot from the group that provided the command.\n\n🕊️ COMMAND: *.pp*\nℹ️ DESCRIPTION: The photo you mention mentions the bot profile photo.\n\n🕊️ COMMAND: *.block*\nℹ️ DESCRIPTION: Block tagged user.\n\n🕊️ COMMAND: *.unblock*\nℹ️ DESCRIPTION: Unblock tagged user.\n\n🕊️ COMMAND: *.jid*\nℹ️ DESCRIPTION: Giving user JID.\n\n🕊️ COMMAND *.tagall*\nℹ️ DESCRIPTION: Tag everyone in group.\n\n🕊️ COMMAND: *.up*\nℹ️ DESCRIPTION: Check for updates.\n\n🕊️ COMMAND: *.upasiata*\nℹ️ DESCRIPTION: To update your bot.\n\n🕊️ COMMAND: *.dyno*\nℹ️ DESCRIPTION: Showing heroku dyno hours.\n\n🕊️ COMMAND: *.sysd*\nℹ️ DESCRIPTION: Show system properties.\n\n🕊️ COMMAND: *.scam*\nℹ️ DESCRIPTION: Scam actions for 5min.\n\n🕊️ COMMAND: *.antilink*\nℹ️ DESCRIPTION: Anti link on Ex: .antilink on/off\n\n🕊️ COMMAND: *.antibad*\nℹ️ DESCRIPTION: Remove bad word users Ex: .antibad on/off\n\n🕊️ COMMAND: *.chatbot*\nℹ️DESCRIPTION: Auto chat on Ex: .chatbot on/off\n🐼 Command: .voice on/off\n➶ Description: Activate and deactivate voice chat\n\n🐼 Command: .public ➶ Description: set bot as public\n\n 🐼 Command: .private\n➶ Description: Set your bot as private\n\n*⚠️ The above command only works for Admin, Bot and SUDO numbers.\n\n ┋✖☛🧚‍♂️SIMPLE-BOT🧚‍♂️☚✖┋*
 `, rowId:"rowid10"},
         {title: '🐼 Work Type PUBLIC 🐼', description: "➶➶➶➶➶➶\n\n\nType .public to public mode", rowId:"rowid9"},
         {title: '🐼 Work Type PRIVATE 🐼', description:"➶➶➶➶➶➶\n\n\nType .private to private mode", rowId:"rowid2"}
        ]
        
-       const sections = [{title: "🐼 SL-ASIATA Command Panel 🐼", rows: rows}]
+       const sections = [{title: "🐼 SIMPLE-BOT Command Panel 🐼", rows: rows}]
        
        const button = {
         buttonText: '🇱🇰Click Me💝',
-        description: "🐼 SL-ASIATA COMMAND PANEL 🐼",
+        description: "🐼 SIMPLE-BOT COMMAND PANEL 🐼",
         sections: sections,
         listType: 1
        }
